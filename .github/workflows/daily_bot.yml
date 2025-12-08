@@ -1,0 +1,34 @@
+name: Kripto Gunluk Rapor
+
+on:
+  schedule:
+    # UTC saatiyle 06:00 (Türkiye saatiyle 09:00)
+    # Saati değiştirmek için 6'yı değiştirebilirsiniz.
+    - cron: '58 23 * * *'
+  
+  # Manuel olarak tetiklemek isterseniz bu satırı ekleyin:
+  workflow_dispatch:
+
+jobs:
+  run-crypto-bot:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Depoyu Çek (Checkout)
+        uses: actions/checkout@v3
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Kütüphaneleri Yükle
+        run: |
+          pip install requests pybit pandas
+
+      - name: Botu Çalıştır
+        env:
+          # Burada GitHub Secret'larını kodun içine aktarıyoruz
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py

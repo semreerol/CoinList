@@ -7,6 +7,55 @@ from datetime import datetime
 TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
 TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
 
+def format_volume(value):
+    """Hacmi okunabilir formata (Milyon/Bin) çevirir."""
+    val = float(value)
+    if val >= 1_000_000:
+        return f"{val/1_000_000:.2f}M$"
+    elif val >= 1_000:
+        return f"{val/1_000:.2f}K$"
+    else:
+        return f"{val:.2f}$"
+
+def get_market_data():
+    session = HTTP(testnet=False, domain="bytick")
+    try:
+        # Spot piyasasındaki tüm tickerları çek
+        response = session.get_tickers(category="spot")
+        result = response.get('result', {}).get('list', [])
+        
+        market_data = []
+        
+        for item in result:
+            symbol = item['symbol']
+            if symbol.endswith('USDT'):
+                price_change = float(item['price24hPcnt']) * 100
+                last_price = float(item['lastPrice'])
+                # turnover24h = USDT cinsinden hacim
+                volume = float(item['turnover24h']) 
+                
+                # Çok düşük hacimli (ölü) coinleri filtrelemek isterseniz:
+                # if volume < 50000: continue 
+
+                market_data.append({
+                    'Symbol': symbol,
+                    'Price': last_price,
+                    'Change': price_change,
+                    'Volume': volume
+                })
+        
+        df = pd.DataFrame(market_data)
+        
+        # En çok yükselenler
+        gainers = df.sort_values(by='Change', ascending=False).head(5)
+        # En çok düşenler
+        losers = df.sort_values(by='Change', ascending=True).head(5)
+        
+        return gainers, losers
+    except Exception as e:
+        print(f"Veri çekme hatası: {e}")
+        return None, None
+
 def send_telegram_message(gainers, losers):
     # --- 2. GÜVENLİK KONTROLÜ ---
     # Eğer token okunamazsa işlem yapma ve hata ver.

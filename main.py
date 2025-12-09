@@ -1,9 +1,11 @@
 import os
 import requests
+from pybit.unified_trading import HTTP
+import pandas as pd
 from datetime import datetime
 
-# --- 1. DEĞİŞKENLERİ ORTAM DEĞİŞKENLERİNDEN (ENV) ÇEK ---
-# GitHub Actions yml dosyasındaki 'env' kısmından buraya aktarılır.
+# --- AYARLAR ---
+# GitHub Actions'ta tanımladığın 'env' değişkenlerini buradan çekiyoruz.
 TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
 TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
 
@@ -18,6 +20,7 @@ def format_volume(value):
         return f"{val:.2f}$"
 
 def get_market_data():
+    # Bybit API'ye bağlan (Self-Hosted kullandığın için bytick veya bybit deneyebilirsin)
     session = HTTP(testnet=False, domain="bytick")
     try:
         # Spot piyasasındaki tüm tickerları çek
@@ -29,13 +32,14 @@ def get_market_data():
         for item in result:
             symbol = item['symbol']
             if symbol.endswith('USDT'):
-                price_change = float(item['price24hPcnt']) * 100
-                last_price = float(item['lastPrice'])
-                # turnover24h = USDT cinsinden hacim
-                volume = float(item['turnover24h']) 
-                
-                # Çok düşük hacimli (ölü) coinleri filtrelemek isterseniz:
-                # if volume < 50000: continue 
+                # Hata önleme: Bazı coinlerde veri eksik olabilir, try-except gerekebilir
+                # ama şimdilik varsayılan float dönüşümü yapıyoruz.
+                try:
+                    price_change = float(item.get('price24hPcnt', 0)) * 100
+                    last_price = float(item.get('lastPrice', 0))
+                    volume = float(item.get('turnover24h', 0)) 
+                except (ValueError, TypeError):
+                    continue
 
                 market_data.append({
                     'Symbol': symbol,
@@ -46,6 +50,11 @@ def get_market_data():
         
         df = pd.DataFrame(market_data)
         
+        # Veri boşsa hata döndürme
+        if df.empty:
+            print("Hata: Hiç veri çekilemedi.")
+            return None, None
+
         # En çok yükselenler
         gainers = df.sort_values(by='Change', ascending=False).head(5)
         # En çok düşenler
@@ -57,13 +66,13 @@ def get_market_data():
         return None, None
 
 def send_telegram_message(gainers, losers):
-    # --- 2. GÜVENLİK KONTROLÜ ---
-    # Eğer token okunamazsa işlem yapma ve hata ver.
+    # Güvenlik Kontrolü: Eğer secretlar okunamadıysa işlemi durdur.
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
-        print("KRİTİK HATA: Token veya Chat ID okunamadı! GitHub Secret'ları kontrol et.")
+        print("HATA: Telegram Token veya Chat ID bulunamadı! GitHub Secret ayarlarını kontrol et.")
         return
 
     if gainers is None or losers is None:
+        print("Veri olmadığı için mesaj gönderilmedi.")
         return
 
     # Mesaj Başlığı
@@ -73,9 +82,7 @@ def send_telegram_message(gainers, losers):
     # Yükselenler Bölümü
     message += "🚀 **EN ÇOK YÜKSELENLER (TOP 5)**\n"
     for _, row in gainers.iterrows():
-        # format_volume fonksiyonunun tanımlı olduğunu varsayıyorum
-        # Eğer hata alırsan buraya basit bir f-string koyabilirsin.
-        vol_str = f"{row['Volume']:,.0f}" 
+        vol_str = format_volume(row['Volume'])
         message += (
             f"🔹 *{row['Symbol']}*\n"
             f"   Fiyat: {row['Price']}$\n"
@@ -88,7 +95,7 @@ def send_telegram_message(gainers, losers):
     # Düşenler Bölümü
     message += "🩸 **EN ÇOK DÜŞENLER (TOP 5)**\n"
     for _, row in losers.iterrows():
-        vol_str = f"{row['Volume']:,.0f}"
+        vol_str = format_volume(row['Volume'])
         message += (
             f"🔸 *{row['Symbol']}*\n"
             f"   Fiyat: {row['Price']}$\n"
@@ -96,37 +103,25 @@ def send_telegram_message(gainers, losers):
             f"   Hacim: {vol_str}\n"
         )
 
-    # --- 3. URL OLUŞTURMA VE GÖNDERME ---
-    # Token'ı buraya f-string ile yerleştiriyoruz.
+    # Telegram'a Gönder
+    # Token değişkeni burada URL içine yerleştiriliyor
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    
     payload = {
         'chat_id': TELEGRAM_CHAT_ID,
         'text': message,
-        'parse_mode': 'Markdown'
+        'parse_mode': 'Markdown' 
     }
     
     try:
-        # Debug için URL'yi yazdırma (Güvenlik için token'ı gizle)
-        print("Telegram isteği gönderiliyor...") 
-        
         r = requests.post(url, data=payload)
-        
         if r.status_code == 200:
-            print("✅ Telegram bildirimi başarıyla gönderildi!")
+            print("Telegram bildirimi başarıyla gönderildi!")
         else:
-            # Hata detayını gör
-            print(f"❌ Telegram Hatası (Kod: {r.status_code}): {r.text}")
-            
+            print(f"Telegram hatası: {r.text}")
     except Exception as e:
-        print(f"❌ İstek Hatası: {e}")
+        print(f"İstek hatası: {e}")
 
 # --- Çalıştırma ---
 if __name__ == "__main__":
-    # get_market_data fonksiyonunun çalıştığını varsayıyoruz
-    # Eğer test etmek istersen, verileri manuel oluşturabilirsin.
-    try:
-        top_gainers, top_losers = get_market_data()
-        send_telegram_message(top_gainers, top_losers)
-    except NameError:
-        print("Uyarı: 'get_market_data' fonksiyonu bulunamadı, kodun geri kalanı ile birleştirin.")
+    top_gainers, top_losers = get_market_data()
+    send_telegram_message(top_gainers, top_losers)

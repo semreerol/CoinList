@@ -3,10 +3,9 @@ name: Kripto Gunluk Rapor
 on:
   schedule:
     # UTC saatiyle 06:00 (Türkiye saatiyle 09:00)
-    # Saati değiştirmek için 6'yı değiştirebilirsiniz.
     - cron: '58 23 * * *'
   
-  # Manuel olarak tetiklemek isterseniz bu satırı ekleyin:
+  # Manuel tetikleme
   workflow_dispatch:
 
 jobs:
@@ -17,18 +16,18 @@ jobs:
       - name: Depoyu Çek (Checkout)
         uses: actions/checkout@v3
 
-      - name: Python Kurulumu
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
+      # HATA ÇIKARAN "setup-python" ADIMINI SİLDİM.
+      # Kendi bilgisayarındaki Python'u kullanacağız.
 
       - name: Kütüphaneleri Yükle
+        # Mac'te genellikle 'pip' yerine 'pip3' kullanılır, garanti olsun diye python3 modülü olarak çağırıyoruz.
         run: |
-          pip install requests pybit pandas
+          python3 -m pip install --upgrade pip
+          python3 -m pip install requests pybit pandas
 
       - name: Botu Çalıştır
         env:
-          # Burada GitHub Secret'larını kodun içine aktarıyoruz
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python main.py
+        # Mac'te 'python' komutu bazen Python 2'yi işaret edebilir, 'python3' kullanıyoruz.
+        run: python3 main.py

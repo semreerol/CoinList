@@ -18,7 +18,7 @@ def format_volume(value):
         return f"{val:.2f}$"
 
 def get_market_data():
-    session = HTTP(testnet=False)
+    session = HTTP(testnet=False, domain="bytick")
     try:
         # Spot piyasasındaki tüm tickerları çek
         response = session.get_tickers(category="spot")

@@ -1,127 +1,143 @@
 import os
 import requests
-from pybit.unified_trading import HTTP
 import pandas as pd
+import json
 from datetime import datetime
 
 # --- AYARLAR ---
-# GitHub Actions'ta tanımladığın 'env' değişkenlerini buradan çekiyoruz.
 TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
 TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
+HISTORY_FILE = "history.json"
+ANALYSIS_DAYS = 10  # Son kaç güne bakılacak?
 
-def format_volume(value):
-    """Hacmi okunabilir formata (Milyon/Bin) çevirir."""
-    val = float(value)
-    if val >= 1_000_000:
-        return f"{val/1_000_000:.2f}M$"
-    elif val >= 1_000:
-        return f"{val/1_000:.2f}K$"
-    else:
-        return f"{val:.2f}$"
+def load_history():
+    """Geçmiş verileri JSON dosyasından okur."""
+    if os.path.exists(HISTORY_FILE):
+        try:
+            with open(HISTORY_FILE, 'r') as f:
+                return json.load(f)
+        except:
+            return []
+    return []
+
+def save_history(history):
+    """Güncel verileri JSON dosyasına kaydeder ve son 10 günü tutar."""
+    # Sadece son X günü tut, dosya şişmesin
+    trimmed_history = history[-ANALYSIS_DAYS:]
+    with open(HISTORY_FILE, 'w') as f:
+        json.dump(trimmed_history, f, indent=4)
+
+def analyze_momentum(history, current_gainers):
+    """Hangi coinlerin ısrarlı yükselişte olduğunu bulur."""
+    momentum_coins = {}
+    
+    # Şu anki yükselenler listesindeki her coin için geçmişe bak
+    for index, row in current_gainers.iterrows():
+        symbol = row['Symbol']
+        count = 1 # Bugün listeye girdiği için 1 ile başla
+        
+        for day_record in history:
+            # Geçmiş kayıtlardaki 'gainers' listesinde bu coin var mı?
+            if symbol in day_record.get('gainers', []):
+                count += 1
+        
+        # Eğer coin son günlerde 2 veya daha fazla kez listeye girdiyse not al
+        if count >= 2:
+            momentum_coins[symbol] = count
+            
+    return momentum_coins
 
 def get_market_data():
-    # Bybit API'ye bağlan (Self-Hosted kullandığın için bytick veya bybit deneyebilirsin)
-    session = HTTP(testnet=False, domain="bytick")
+    # CoinGecko'dan veri çekme (Önceki kodun aynısı)
+    url = "https://api.coingecko.com/api/v3/coins/markets"
+    params = {
+        "vs_currency": "usd",
+        "order": "price_change_percentage_24h_desc",
+        "per_page": 250,
+        "page": 1,
+        "sparkline": "false"
+    }
+    
+    headers = {"User-Agent": "Mozilla/5.0"}
+    
     try:
-        # Spot piyasasındaki tüm tickerları çek
-        response = session.get_tickers(category="spot")
-        result = response.get('result', {}).get('list', [])
+        response = requests.get(url, params=params, headers=headers)
+        data = response.json()
         
         market_data = []
-        
-        for item in result:
-            symbol = item['symbol']
-            if symbol.endswith('USDT'):
-                # Hata önleme: Bazı coinlerde veri eksik olabilir, try-except gerekebilir
-                # ama şimdilik varsayılan float dönüşümü yapıyoruz.
-                try:
-                    price_change = float(item.get('price24hPcnt', 0)) * 100
-                    last_price = float(item.get('lastPrice', 0))
-                    volume = float(item.get('turnover24h', 0)) 
-                except (ValueError, TypeError):
-                    continue
+        for item in data:
+            symbol = item['symbol'].upper()
+            if symbol in ['USDT', 'USDC', 'DAI', 'FDUSD', 'TUSD', 'WBTC']: continue # Stablecoinleri ele
+            
+            market_data.append({
+                'Symbol': symbol,
+                'Price': item['current_price'],
+                'Change': item['price_change_percentage_24h'],
+                'Volume': item['total_volume']
+            })
 
-                market_data.append({
-                    'Symbol': symbol,
-                    'Price': last_price,
-                    'Change': price_change,
-                    'Volume': volume
-                })
-        
         df = pd.DataFrame(market_data)
-        
-        # Veri boşsa hata döndürme
-        if df.empty:
-            print("Hata: Hiç veri çekilemedi.")
-            return None, None
-
-        # En çok yükselenler
         gainers = df.sort_values(by='Change', ascending=False).head(5)
-        # En çok düşenler
         losers = df.sort_values(by='Change', ascending=True).head(5)
-        
         return gainers, losers
+
     except Exception as e:
-        print(f"Veri çekme hatası: {e}")
+        print(f"Hata: {e}")
         return None, None
 
-def send_telegram_message(gainers, losers):
-    # Güvenlik Kontrolü: Eğer secretlar okunamadıysa işlemi durdur.
-    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
-        print("HATA: Telegram Token veya Chat ID bulunamadı! GitHub Secret ayarlarını kontrol et.")
-        return
+def send_telegram_message(gainers, losers, momentum_data):
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID: return
 
-    if gainers is None or losers is None:
-        print("Veri olmadığı için mesaj gönderilmedi.")
-        return
+    date_str = datetime.now().strftime('%d-%m-%Y')
+    message = f"📊 **GÜNLÜK PİYASA ANALİZİ** ({date_str})\n\n"
 
-    # Mesaj Başlığı
-    date_str = datetime.now().strftime('%d-%m-%Y %H:%M')
-    message = f"📊 **BYBIT GÜNLÜK RAPORU** ({date_str})\n\n"
-
-    # Yükselenler Bölümü
-    message += "🚀 **EN ÇOK YÜKSELENLER (TOP 5)**\n"
+    # --- Yükselenler ---
+    message += "🚀 **EN ÇOK YÜKSELENLER**\n"
     for _, row in gainers.iterrows():
-        vol_str = format_volume(row['Volume'])
+        symbol = row['Symbol']
+        
+        # Analiz Notu Ekleme
+        note = ""
+        if symbol in momentum_data:
+            count = momentum_data[symbol]
+            note = f"\n🔥 _DİKKAT: Son {ANALYSIS_DAYS} günde {count}. kez listede!_"
+
         message += (
-            f"🔹 *{row['Symbol']}*\n"
+            f"🔹 *{symbol}* {note}\n"
             f"   Fiyat: {row['Price']}$\n"
             f"   Değişim: %{row['Change']:.2f} 🟢\n"
-            f"   Hacim: {vol_str}\n"
         )
     
     message += "\n" + "-"*20 + "\n\n"
 
-    # Düşenler Bölümü
-    message += "🩸 **EN ÇOK DÜŞENLER (TOP 5)**\n"
+    # --- Düşenler (Kısa tuttum) ---
+    message += "🩸 **EN ÇOK DÜŞENLER**\n"
     for _, row in losers.iterrows():
-        vol_str = format_volume(row['Volume'])
-        message += (
-            f"🔸 *{row['Symbol']}*\n"
-            f"   Fiyat: {row['Price']}$\n"
-            f"   Değişim: %{row['Change']:.2f} 🔴\n"
-            f"   Hacim: {vol_str}\n"
-        )
+        message += f"🔸 *{row['Symbol']}*: %{row['Change']:.2f} 🔴\n"
 
-    # Telegram'a Gönder
-    # Token değişkeni burada URL içine yerleştiriliyor
+    # Gönder
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    payload = {
-        'chat_id': TELEGRAM_CHAT_ID,
-        'text': message,
-        'parse_mode': 'Markdown' 
-    }
-    
-    try:
-        r = requests.post(url, data=payload)
-        if r.status_code == 200:
-            print("Telegram bildirimi başarıyla gönderildi!")
-        else:
-            print(f"Telegram hatası: {r.text}")
-    except Exception as e:
-        print(f"İstek hatası: {e}")
+    requests.post(url, data={'chat_id': TELEGRAM_CHAT_ID, 'text': message, 'parse_mode': 'Markdown'})
 
-# --- Çalıştırma ---
 if __name__ == "__main__":
-    top_gainers, top_losers = get_market_data()
-    send_telegram_message(top_gainers, top_losers)
+    # 1. Veriyi Çek
+    gainers, losers = get_market_data()
+    
+    if gainers is not None:
+        # 2. Geçmişi Yükle
+        history = load_history()
+        
+        # 3. Analiz Yap
+        momentum = analyze_momentum(history, gainers)
+        
+        # 4. Mesaj Gönder
+        send_telegram_message(gainers, losers, momentum)
+        
+        # 5. Geçmişi Güncelle ve Kaydetmek üzere hazırla
+        # Sadece sembolleri kaydetsek yeterli, dosya boyutu küçük kalsın
+        today_record = {
+            "date": datetime.now().strftime('%Y-%m-%d'),
+            "gainers": gainers['Symbol'].tolist()
+        }
+        history.append(today_record)
+        save_history(history)

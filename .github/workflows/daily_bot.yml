@@ -1,33 +1,42 @@
-name: Kripto Gunluk Rapor
+name: Kripto Analiz Botu
 
 on:
   schedule:
-    # UTC saatiyle 06:00 (Türkiye saatiyle 09:00)
-    - cron: '58 23 * * *'
-  
-  # Manuel tetikleme
+    - cron: '58 23 * * *' # Her sabah 09:00 TR saati
   workflow_dispatch:
 
+# İZİNLER: Botun depoya dosya yazabilmesi için gerekli
+permissions:
+  contents: write
+
 jobs:
-  run-crypto-bot:
-    runs-on: self-hosted
-    
+  run-bot:
+    runs-on: ubuntu-latest
+
     steps:
-      - name: Depoyu Çek (Checkout)
+      - name: Depoyu Çek
         uses: actions/checkout@v3
 
-      # HATA ÇIKARAN "setup-python" ADIMINI SİLDİM.
-      # Kendi bilgisayarındaki Python'u kullanacağız.
+      - name: Python Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
 
       - name: Kütüphaneleri Yükle
-        # Mac'te genellikle 'pip' yerine 'pip3' kullanılır, garanti olsun diye python3 modülü olarak çağırıyoruz.
-        run: |
-          python3 -m pip install --upgrade pip
-          python3 -m pip install requests pybit pandas
+        run: pip install requests pandas
 
       - name: Botu Çalıştır
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        # Mac'te 'python' komutu bazen Python 2'yi işaret edebilir, 'python3' kullanıyoruz.
-        run: python3 main.py
+        run: python main.py
+
+      # --- BURASI YENİ: VERİYİ KAYDETME ADIMI ---
+      - name: Geçmiş Veriyi Kaydet (Commit & Push)
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "actions@github.com"
+          git add history.json
+          # Eğer değişiklik varsa commit et, yoksa hata verme
+          git commit -m "Günlük veri güncellendi" || echo "Değişiklik yok"
+          git push

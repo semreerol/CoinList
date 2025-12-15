@@ -2,7 +2,7 @@ name: Kripto Analiz Botu
 
 on:
   schedule:
-    - cron: '58 23 * * *' # Her sabah 09:00 TR saati
+    - cron: '58 21 * * *' # Her sabah 09:00 TR saati
   workflow_dispatch:
 
 # İZİNLER: Botun depoya dosya yazabilmesi için gerekli

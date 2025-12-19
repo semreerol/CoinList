@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-10",
-        "gainers": [
-            "PIPPIN",
-            "SAD",
-            "M",
-            "STABLE",
-            "FET"
-        ]
-    },
-    {
         "date": "2025-12-11",
         "gainers": [
             "NIGHT",
@@ -97,6 +87,16 @@
             "ZEC",
             "BCH",
             "BDX"
+        ]
+    },
+    {
+        "date": "2025-12-19",
+        "gainers": [
+            "CHZ",
+            "LEO",
+            "SYRUP",
+            "ZBCN",
+            "ZEC"
         ]
     }
 ]

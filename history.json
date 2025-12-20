@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-11",
-        "gainers": [
-            "NIGHT",
-            "PIPPIN",
-            "ULTIMA",
-            "M",
-            "XDC"
-        ]
-    },
-    {
         "date": "2025-12-12",
         "gainers": [
             "ZEC",
@@ -97,6 +87,16 @@
             "SYRUP",
             "ZBCN",
             "ZEC"
+        ]
+    },
+    {
+        "date": "2025-12-20",
+        "gainers": [
+            "CC",
+            "NIGHT",
+            "UNI",
+            "BEAT",
+            "ICP"
         ]
     }
 ]

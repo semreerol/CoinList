@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-12",
-        "gainers": [
-            "ZEC",
-            "BAT",
-            "MYX",
-            "HASH",
-            "M"
-        ]
-    },
-    {
         "date": "2025-12-13",
         "gainers": [
             "BEAT",
@@ -97,6 +87,16 @@
             "UNI",
             "BEAT",
             "ICP"
+        ]
+    },
+    {
+        "date": "2025-12-21",
+        "gainers": [
+            "BEAT",
+            "NIGHT",
+            "H",
+            "SYRUP",
+            "MYX"
         ]
     }
 ]

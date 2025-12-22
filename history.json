@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-13",
-        "gainers": [
-            "BEAT",
-            "STABLE",
-            "AB",
-            "MERL",
-            "NIGHT"
-        ]
-    },
-    {
         "date": "2025-12-14",
         "gainers": [
             "FOLKS",
@@ -97,6 +87,16 @@
             "H",
             "SYRUP",
             "MYX"
+        ]
+    },
+    {
+        "date": "2025-12-22",
+        "gainers": [
+            "FTN",
+            "H",
+            "CRV",
+            "MYX",
+            "JASMY"
         ]
     }
 ]

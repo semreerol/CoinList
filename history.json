@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-14",
-        "gainers": [
-            "FOLKS",
-            "M",
-            "MERL",
-            "MNT",
-            "XPL"
-        ]
-    },
-    {
         "date": "2025-12-15",
         "gainers": [
             "NIGHT",
@@ -97,6 +87,16 @@
             "CRV",
             "MYX",
             "JASMY"
+        ]
+    },
+    {
+        "date": "2025-12-23",
+        "gainers": [
+            "PIPPIN",
+            "BTSE",
+            "RAIN",
+            "NFT",
+            "KAG"
         ]
     }
 ]

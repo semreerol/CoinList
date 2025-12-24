@@ -2,16 +2,6 @@
     {
         "date": "2025-12-15",
         "gainers": [
-            "NIGHT",
-            "BEAT",
-            "RAIN",
-            "MYX",
-            "TRX"
-        ]
-    },
-    {
-        "date": "2025-12-15",
-        "gainers": [
             "BEAT",
             "PIPPIN",
             "MYX",
@@ -97,6 +87,16 @@
             "RAIN",
             "NFT",
             "KAG"
+        ]
+    },
+    {
+        "date": "2025-12-24",
+        "gainers": [
+            "MON",
+            "CC",
+            "PIPPIN",
+            "ZEC",
+            "S"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-15",
-        "gainers": [
-            "BEAT",
-            "PIPPIN",
-            "MYX",
-            "XDC",
-            "NFT"
-        ]
-    },
-    {
         "date": "2025-12-16",
         "gainers": [
             "MON",
@@ -97,6 +87,16 @@
             "PIPPIN",
             "ZEC",
             "S"
+        ]
+    },
+    {
+        "date": "2025-12-25",
+        "gainers": [
+            "QRL",
+            "MON",
+            "SYRUP",
+            "2Z",
+            "MERL"
         ]
     }
 ]

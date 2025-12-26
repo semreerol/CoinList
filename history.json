@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-16",
-        "gainers": [
-            "MON",
-            "HASH",
-            "XMR",
-            "FARTCOIN",
-            "APEPE"
-        ]
-    },
-    {
         "date": "2025-12-17",
         "gainers": [
             "TOMI",
@@ -97,6 +87,16 @@
             "SYRUP",
             "2Z",
             "MERL"
+        ]
+    },
+    {
+        "date": "2025-12-26",
+        "gainers": [
+            "TEL",
+            "DCR",
+            "KAG",
+            "RAIN",
+            "NIGHT"
         ]
     }
 ]

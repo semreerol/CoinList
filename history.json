@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-18",
-        "gainers": [
-            "FTN",
-            "BEAT",
-            "ZEC",
-            "BCH",
-            "BDX"
-        ]
-    },
-    {
         "date": "2025-12-19",
         "gainers": [
             "CHZ",
@@ -97,6 +87,16 @@
             "STABLE",
             "ZEC",
             "CC"
+        ]
+    },
+    {
+        "date": "2025-12-28",
+        "gainers": [
+            "CC",
+            "UDS",
+            "UNI",
+            "WSTX",
+            "OHM"
         ]
     }
 ]

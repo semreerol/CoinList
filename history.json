@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-19",
-        "gainers": [
-            "CHZ",
-            "LEO",
-            "SYRUP",
-            "ZBCN",
-            "ZEC"
-        ]
-    },
-    {
         "date": "2025-12-20",
         "gainers": [
             "CC",
@@ -97,6 +87,16 @@
             "UNI",
             "WSTX",
             "OHM"
+        ]
+    },
+    {
+        "date": "2025-12-29",
+        "gainers": [
+            "BEAT",
+            "NIGHT",
+            "QRL",
+            "STABLE",
+            "CHZ"
         ]
     }
 ]

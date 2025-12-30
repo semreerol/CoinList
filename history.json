@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-20",
-        "gainers": [
-            "CC",
-            "NIGHT",
-            "UNI",
-            "BEAT",
-            "ICP"
-        ]
-    },
-    {
         "date": "2025-12-21",
         "gainers": [
             "BEAT",
@@ -97,6 +87,16 @@
             "QRL",
             "STABLE",
             "CHZ"
+        ]
+    },
+    {
+        "date": "2025-12-30",
+        "gainers": [
+            "CC",
+            "UDS",
+            "H",
+            "2Z",
+            "LEO"
         ]
     }
 ]

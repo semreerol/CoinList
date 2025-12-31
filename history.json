@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-21",
-        "gainers": [
-            "BEAT",
-            "NIGHT",
-            "H",
-            "SYRUP",
-            "MYX"
-        ]
-    },
-    {
         "date": "2025-12-22",
         "gainers": [
             "FTN",
@@ -97,6 +87,16 @@
             "H",
             "2Z",
             "LEO"
+        ]
+    },
+    {
+        "date": "2025-12-31",
+        "gainers": [
+            "RIVER",
+            "IP",
+            "BTSE",
+            "M",
+            "CHZ"
         ]
     }
 ]

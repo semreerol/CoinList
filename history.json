@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-24",
-        "gainers": [
-            "MON",
-            "CC",
-            "PIPPIN",
-            "ZEC",
-            "S"
-        ]
-    },
-    {
         "date": "2025-12-25",
         "gainers": [
             "QRL",
@@ -97,6 +87,16 @@
             "RIVER",
             "STABLE",
             "MON"
+        ]
+    },
+    {
+        "date": "2026-01-03",
+        "gainers": [
+            "MYX",
+            "RENDER",
+            "PIPPIN",
+            "WSTX",
+            "WLFI"
         ]
     }
 ]

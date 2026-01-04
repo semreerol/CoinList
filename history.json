@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-25",
-        "gainers": [
-            "QRL",
-            "MON",
-            "SYRUP",
-            "2Z",
-            "MERL"
-        ]
-    },
-    {
         "date": "2025-12-26",
         "gainers": [
             "TEL",
@@ -97,6 +87,16 @@
             "PIPPIN",
             "WSTX",
             "WLFI"
+        ]
+    },
+    {
+        "date": "2026-01-04",
+        "gainers": [
+            "BONK",
+            "WIF",
+            "STX",
+            "PIPPIN",
+            "PEPE"
         ]
     }
 ]

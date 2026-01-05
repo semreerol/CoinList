@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-26",
-        "gainers": [
-            "TEL",
-            "DCR",
-            "KAG",
-            "RAIN",
-            "NIGHT"
-        ]
-    },
-    {
         "date": "2025-12-27",
         "gainers": [
             "FTN",
@@ -97,6 +87,16 @@
             "STX",
             "PIPPIN",
             "PEPE"
+        ]
+    },
+    {
+        "date": "2026-01-05",
+        "gainers": [
+            "XCN",
+            "RIVER",
+            "WSTX",
+            "VIRTUAL",
+            "LIT"
         ]
     }
 ]

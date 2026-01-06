@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-27",
-        "gainers": [
-            "FTN",
-            "SBTC",
-            "STABLE",
-            "ZEC",
-            "CC"
-        ]
-    },
-    {
         "date": "2025-12-28",
         "gainers": [
             "CC",
@@ -97,6 +87,16 @@
             "WSTX",
             "VIRTUAL",
             "LIT"
+        ]
+    },
+    {
+        "date": "2026-01-06",
+        "gainers": [
+            "JASMY",
+            "RIVER",
+            "RAIN",
+            "XPL",
+            "TAO"
         ]
     }
 ]

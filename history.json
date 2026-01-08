@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-29",
-        "gainers": [
-            "BEAT",
-            "NIGHT",
-            "QRL",
-            "STABLE",
-            "CHZ"
-        ]
-    },
-    {
         "date": "2025-12-30",
         "gainers": [
             "CC",
@@ -97,6 +87,16 @@
             "JST",
             "LEO",
             "SUN"
+        ]
+    },
+    {
+        "date": "2026-01-08",
+        "gainers": [
+            "PIPPIN",
+            "JASMY",
+            "POL",
+            "TAO",
+            "XMR"
         ]
     }
 ]

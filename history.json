@@ -1,15 +1,5 @@
 [
     {
-        "date": "2025-12-31",
-        "gainers": [
-            "RIVER",
-            "IP",
-            "BTSE",
-            "M",
-            "CHZ"
-        ]
-    },
-    {
         "date": "2026-01-01",
         "gainers": [
             "RIVER",
@@ -97,6 +87,16 @@
             "RENDER",
             "PUMP",
             "STX"
+        ]
+    },
+    {
+        "date": "2026-01-10",
+        "gainers": [
+            "POL",
+            "CHZ",
+            "RIVER",
+            "RAIN",
+            "NIGHT"
         ]
     }
 ]

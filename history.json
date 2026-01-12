@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-02",
-        "gainers": [
-            "AERO",
-            "PEPE",
-            "RIVER",
-            "STABLE",
-            "MON"
-        ]
-    },
-    {
         "date": "2026-01-03",
         "gainers": [
             "MYX",
@@ -97,6 +87,16 @@
             "ULTIMA",
             "CC",
             "IP"
+        ]
+    },
+    {
+        "date": "2026-01-12",
+        "gainers": [
+            "IP",
+            "RIVER",
+            "B",
+            "XMR",
+            "ZEC"
         ]
     }
 ]

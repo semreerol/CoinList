@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-03",
-        "gainers": [
-            "MYX",
-            "RENDER",
-            "PIPPIN",
-            "WSTX",
-            "WLFI"
-        ]
-    },
-    {
         "date": "2026-01-04",
         "gainers": [
             "BONK",
@@ -97,6 +87,16 @@
             "B",
             "XMR",
             "ZEC"
+        ]
+    },
+    {
+        "date": "2026-01-13",
+        "gainers": [
+            "DASH",
+            "IP",
+            "WAPE",
+            "DCR",
+            "OP"
         ]
     }
 ]

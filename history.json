@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-04",
-        "gainers": [
-            "BONK",
-            "WIF",
-            "STX",
-            "PIPPIN",
-            "PEPE"
-        ]
-    },
-    {
         "date": "2026-01-05",
         "gainers": [
             "XCN",
@@ -97,6 +87,16 @@
             "WAPE",
             "DCR",
             "OP"
+        ]
+    },
+    {
+        "date": "2026-01-14",
+        "gainers": [
+            "DASH",
+            "ICP",
+            "DCR",
+            "H",
+            "RIVER"
         ]
     }
 ]

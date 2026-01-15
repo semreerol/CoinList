@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-05",
-        "gainers": [
-            "XCN",
-            "RIVER",
-            "WSTX",
-            "VIRTUAL",
-            "LIT"
-        ]
-    },
-    {
         "date": "2026-01-06",
         "gainers": [
             "JASMY",
@@ -97,6 +87,16 @@
             "DCR",
             "H",
             "RIVER"
+        ]
+    },
+    {
+        "date": "2026-01-15",
+        "gainers": [
+            "DCR",
+            "HASH",
+            "RIVER",
+            "H",
+            "ZBCN"
         ]
     }
 ]

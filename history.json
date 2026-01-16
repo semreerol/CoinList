@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-06",
-        "gainers": [
-            "JASMY",
-            "RIVER",
-            "RAIN",
-            "XPL",
-            "TAO"
-        ]
-    },
-    {
         "date": "2026-01-07",
         "gainers": [
             "XCN",
@@ -97,6 +87,16 @@
             "RIVER",
             "H",
             "ZBCN"
+        ]
+    },
+    {
+        "date": "2026-01-16",
+        "gainers": [
+            "STABLE",
+            "IP",
+            "ZBCN",
+            "2Z",
+            "SKY"
         ]
     }
 ]

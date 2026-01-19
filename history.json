@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-09",
-        "gainers": [
-            "POL",
-            "PIPPIN",
-            "RENDER",
-            "PUMP",
-            "STX"
-        ]
-    },
-    {
         "date": "2026-01-10",
         "gainers": [
             "POL",
@@ -97,6 +87,16 @@
             "DASH",
             "MYX",
             "ZBCN"
+        ]
+    },
+    {
+        "date": "2026-01-19",
+        "gainers": [
+            "RIVER",
+            "NIGHT",
+            "XMR",
+            "JST",
+            "ZRO"
         ]
     }
 ]

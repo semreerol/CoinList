@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-10",
-        "gainers": [
-            "POL",
-            "CHZ",
-            "RIVER",
-            "RAIN",
-            "NIGHT"
-        ]
-    },
-    {
         "date": "2026-01-11",
         "gainers": [
             "RIVER",
@@ -97,6 +87,16 @@
             "XMR",
             "JST",
             "ZRO"
+        ]
+    },
+    {
+        "date": "2026-01-20",
+        "gainers": [
+            "AXS",
+            "RIVER",
+            "CC",
+            "HASH",
+            "FIGR_HELOC"
         ]
     }
 ]

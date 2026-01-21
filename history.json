@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-11",
-        "gainers": [
-            "RIVER",
-            "XMR",
-            "ULTIMA",
-            "CC",
-            "IP"
-        ]
-    },
-    {
         "date": "2026-01-12",
         "gainers": [
             "IP",
@@ -97,6 +87,16 @@
             "CC",
             "HASH",
             "FIGR_HELOC"
+        ]
+    },
+    {
+        "date": "2026-01-21",
+        "gainers": [
+            "PIPPIN",
+            "RIVER",
+            "CC",
+            "XCN",
+            "TEL"
         ]
     }
 ]

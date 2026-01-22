@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-12",
-        "gainers": [
-            "IP",
-            "RIVER",
-            "B",
-            "XMR",
-            "ZEC"
-        ]
-    },
-    {
         "date": "2026-01-13",
         "gainers": [
             "DASH",
@@ -97,6 +87,16 @@
             "CC",
             "XCN",
             "TEL"
+        ]
+    },
+    {
+        "date": "2026-01-22",
+        "gainers": [
+            "SKR",
+            "SENT",
+            "RIVER",
+            "ZRO",
+            "AXS"
         ]
     }
 ]

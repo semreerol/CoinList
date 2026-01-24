@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-14",
-        "gainers": [
-            "DASH",
-            "ICP",
-            "DCR",
-            "H",
-            "RIVER"
-        ]
-    },
-    {
         "date": "2026-01-15",
         "gainers": [
             "DCR",
@@ -97,6 +87,16 @@
             "AXS",
             "CC",
             "ZRO"
+        ]
+    },
+    {
+        "date": "2026-01-24",
+        "gainers": [
+            "RIVER",
+            "KAIA",
+            "MYX",
+            "PUMP",
+            "STABLE"
         ]
     }
 ]

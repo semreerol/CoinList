@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-15",
-        "gainers": [
-            "DCR",
-            "HASH",
-            "RIVER",
-            "H",
-            "ZBCN"
-        ]
-    },
-    {
         "date": "2026-01-16",
         "gainers": [
             "STABLE",
@@ -97,6 +87,16 @@
             "MYX",
             "PUMP",
             "STABLE"
+        ]
+    },
+    {
+        "date": "2026-01-25",
+        "gainers": [
+            "RIVER",
+            "FLUID",
+            "APEPE",
+            "SBTC",
+            "M"
         ]
     }
 ]

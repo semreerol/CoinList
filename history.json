@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-16",
-        "gainers": [
-            "STABLE",
-            "IP",
-            "ZBCN",
-            "2Z",
-            "SKY"
-        ]
-    },
-    {
         "date": "2026-01-17",
         "gainers": [
             "AXS",
@@ -97,6 +87,16 @@
             "APEPE",
             "SBTC",
             "M"
+        ]
+    },
+    {
+        "date": "2026-01-26",
+        "gainers": [
+            "AXS",
+            "DCR",
+            "KHYPE",
+            "RIVER",
+            "HYPE"
         ]
     }
 ]

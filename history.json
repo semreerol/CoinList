@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-17",
-        "gainers": [
-            "AXS",
-            "SAND",
-            "MANA",
-            "THETA",
-            "GALA"
-        ]
-    },
-    {
         "date": "2026-01-18",
         "gainers": [
             "RIVER",
@@ -97,6 +87,16 @@
             "KHYPE",
             "RIVER",
             "HYPE"
+        ]
+    },
+    {
+        "date": "2026-01-27",
+        "gainers": [
+            "PIPPIN",
+            "KHYPE",
+            "WHYPE",
+            "HYPE",
+            "PUMP"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-18",
-        "gainers": [
-            "RIVER",
-            "IP",
-            "DASH",
-            "MYX",
-            "ZBCN"
-        ]
-    },
-    {
         "date": "2026-01-19",
         "gainers": [
             "RIVER",
@@ -97,6 +87,16 @@
             "WHYPE",
             "HYPE",
             "PUMP"
+        ]
+    },
+    {
+        "date": "2026-01-28",
+        "gainers": [
+            "WLD",
+            "STABLE",
+            "KITE",
+            "JST",
+            "HYPE"
         ]
     }
 ]

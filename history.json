@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-19",
-        "gainers": [
-            "RIVER",
-            "NIGHT",
-            "XMR",
-            "JST",
-            "ZRO"
-        ]
-    },
-    {
         "date": "2026-01-20",
         "gainers": [
             "AXS",
@@ -97,6 +87,16 @@
             "KITE",
             "JST",
             "HYPE"
+        ]
+    },
+    {
+        "date": "2026-01-29",
+        "gainers": [
+            "SENT",
+            "ADI",
+            "CC",
+            "ZRO",
+            "NFT"
         ]
     }
 ]

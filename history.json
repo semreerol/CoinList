@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-20",
-        "gainers": [
-            "AXS",
-            "RIVER",
-            "CC",
-            "HASH",
-            "FIGR_HELOC"
-        ]
-    },
-    {
         "date": "2026-01-21",
         "gainers": [
             "PIPPIN",
@@ -97,6 +87,16 @@
             "CC",
             "ZRO",
             "NFT"
+        ]
+    },
+    {
+        "date": "2026-01-30",
+        "gainers": [
+            "SENT",
+            "LIT",
+            "ADI",
+            "CHZ",
+            "PI"
         ]
     }
 ]

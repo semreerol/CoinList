@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-21",
-        "gainers": [
-            "PIPPIN",
-            "RIVER",
-            "CC",
-            "XCN",
-            "TEL"
-        ]
-    },
-    {
         "date": "2026-01-22",
         "gainers": [
             "SKR",
@@ -97,6 +87,16 @@
             "ADI",
             "CHZ",
             "PI"
+        ]
+    },
+    {
+        "date": "2026-01-31",
+        "gainers": [
+            "SENT",
+            "RAIN",
+            "DCR",
+            "USDY",
+            "WAETHUSDC"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-22",
-        "gainers": [
-            "SKR",
-            "SENT",
-            "RIVER",
-            "ZRO",
-            "AXS"
-        ]
-    },
-    {
         "date": "2026-01-23",
         "gainers": [
             "KAIA",
@@ -97,6 +87,16 @@
             "DCR",
             "USDY",
             "WAETHUSDC"
+        ]
+    },
+    {
+        "date": "2026-02-01",
+        "gainers": [
+            "ZK",
+            "ULTIMA",
+            "STABLE",
+            "MYX",
+            "HASH"
         ]
     }
 ]

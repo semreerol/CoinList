@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-24",
-        "gainers": [
-            "RIVER",
-            "KAIA",
-            "MYX",
-            "PUMP",
-            "STABLE"
-        ]
-    },
-    {
         "date": "2026-01-25",
         "gainers": [
             "RIVER",
@@ -97,6 +87,16 @@
             "KAIA",
             "MYX",
             "STX"
+        ]
+    },
+    {
+        "date": "2026-02-03",
+        "gainers": [
+            "WSTX",
+            "STX",
+            "KAU",
+            "KAG",
+            "WLFI"
         ]
     }
 ]

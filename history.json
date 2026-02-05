@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-26",
-        "gainers": [
-            "AXS",
-            "DCR",
-            "KHYPE",
-            "RIVER",
-            "HYPE"
-        ]
-    },
-    {
         "date": "2026-01-27",
         "gainers": [
             "PIPPIN",
@@ -97,6 +87,16 @@
             "MON",
             "B",
             "HYPE"
+        ]
+    },
+    {
+        "date": "2026-02-05",
+        "gainers": [
+            "SKR",
+            "QRL",
+            "HASH",
+            "WHITEWHALE",
+            "A7A5"
         ]
     }
 ]

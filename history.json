@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-27",
-        "gainers": [
-            "PIPPIN",
-            "KHYPE",
-            "WHYPE",
-            "HYPE",
-            "PUMP"
-        ]
-    },
-    {
         "date": "2026-01-28",
         "gainers": [
             "WLD",
@@ -97,6 +87,16 @@
             "HASH",
             "WHITEWHALE",
             "A7A5"
+        ]
+    },
+    {
+        "date": "2026-02-06",
+        "gainers": [
+            "BERA",
+            "ZBCN",
+            "WHITEWHALE",
+            "XDC",
+            "AWE"
         ]
     }
 ]

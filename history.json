@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-28",
-        "gainers": [
-            "WLD",
-            "STABLE",
-            "KITE",
-            "JST",
-            "HYPE"
-        ]
-    },
-    {
         "date": "2026-01-29",
         "gainers": [
             "SENT",
@@ -97,6 +87,16 @@
             "WHITEWHALE",
             "XDC",
             "AWE"
+        ]
+    },
+    {
+        "date": "2026-02-07",
+        "gainers": [
+            "SIREN",
+            "M",
+            "ZBCN",
+            "EGLD",
+            "0G"
         ]
     }
 ]

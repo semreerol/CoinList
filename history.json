@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-29",
-        "gainers": [
-            "SENT",
-            "ADI",
-            "CC",
-            "ZRO",
-            "NFT"
-        ]
-    },
-    {
         "date": "2026-01-30",
         "gainers": [
             "SENT",
@@ -97,6 +87,16 @@
             "ZBCN",
             "EGLD",
             "0G"
+        ]
+    },
+    {
+        "date": "2026-02-08",
+        "gainers": [
+            "PIPPIN",
+            "H",
+            "ROSE",
+            "B",
+            "GOMINING"
         ]
     }
 ]

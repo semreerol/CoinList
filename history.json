@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-30",
-        "gainers": [
-            "SENT",
-            "LIT",
-            "ADI",
-            "CHZ",
-            "PI"
-        ]
-    },
-    {
         "date": "2026-01-31",
         "gainers": [
             "SENT",
@@ -97,6 +87,16 @@
             "ROSE",
             "B",
             "GOMINING"
+        ]
+    },
+    {
+        "date": "2026-02-09",
+        "gainers": [
+            "KITE",
+            "AXS",
+            "TRAC",
+            "RAIN",
+            "BAT"
         ]
     }
 ]

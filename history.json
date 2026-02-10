@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-01-31",
-        "gainers": [
-            "SENT",
-            "RAIN",
-            "DCR",
-            "USDY",
-            "WAETHUSDC"
-        ]
-    },
-    {
         "date": "2026-02-01",
         "gainers": [
             "ZK",
@@ -97,6 +87,16 @@
             "TRAC",
             "RAIN",
             "BAT"
+        ]
+    },
+    {
+        "date": "2026-02-10",
+        "gainers": [
+            "PIPPIN",
+            "RIVER",
+            "STABLE",
+            "MON",
+            "ASTER"
         ]
     }
 ]

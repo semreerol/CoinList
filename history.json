@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-01",
-        "gainers": [
-            "ZK",
-            "ULTIMA",
-            "STABLE",
-            "MYX",
-            "HASH"
-        ]
-    },
-    {
         "date": "2026-02-02",
         "gainers": [
             "RIVER",
@@ -97,6 +87,16 @@
             "STABLE",
             "MON",
             "ASTER"
+        ]
+    },
+    {
+        "date": "2026-02-11",
+        "gainers": [
+            "BERA",
+            "PIPPIN",
+            "ZRO",
+            "S",
+            "KTA"
         ]
     }
 ]

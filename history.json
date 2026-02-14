@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-04",
-        "gainers": [
-            "RIVER",
-            "H",
-            "MON",
-            "B",
-            "HYPE"
-        ]
-    },
-    {
         "date": "2026-02-05",
         "gainers": [
             "SKR",
@@ -97,6 +87,16 @@
             "COMP",
             "KITE",
             "ZEC"
+        ]
+    },
+    {
+        "date": "2026-02-14",
+        "gainers": [
+            "PEPE",
+            "HNT",
+            "ZEC",
+            "PYTH",
+            "PENGU"
         ]
     }
 ]

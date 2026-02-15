@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-05",
-        "gainers": [
-            "SKR",
-            "QRL",
-            "HASH",
-            "WHITEWHALE",
-            "A7A5"
-        ]
-    },
-    {
         "date": "2026-02-06",
         "gainers": [
             "BERA",
@@ -97,6 +87,16 @@
             "ZEC",
             "PYTH",
             "PENGU"
+        ]
+    },
+    {
+        "date": "2026-02-15",
+        "gainers": [
+            "VVV",
+            "HNT",
+            "H",
+            "STABLE",
+            "KITE"
         ]
     }
 ]

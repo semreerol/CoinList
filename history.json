@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-06",
-        "gainers": [
-            "BERA",
-            "ZBCN",
-            "WHITEWHALE",
-            "XDC",
-            "AWE"
-        ]
-    },
-    {
         "date": "2026-02-07",
         "gainers": [
             "SIREN",
@@ -97,6 +87,16 @@
             "H",
             "STABLE",
             "KITE"
+        ]
+    },
+    {
+        "date": "2026-02-16",
+        "gainers": [
+            "SIREN",
+            "STABLE",
+            "M",
+            "HNT",
+            "TAO"
         ]
     }
 ]

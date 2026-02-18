@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-08",
-        "gainers": [
-            "PIPPIN",
-            "H",
-            "ROSE",
-            "B",
-            "GOMINING"
-        ]
-    },
-    {
         "date": "2026-02-09",
         "gainers": [
             "KITE",
@@ -97,6 +87,16 @@
             "RAY",
             "MORPHO",
             "PI"
+        ]
+    },
+    {
+        "date": "2026-02-18",
+        "gainers": [
+            "AWE",
+            "HNT",
+            "QRL",
+            "BAN",
+            "WLFI"
         ]
     }
 ]

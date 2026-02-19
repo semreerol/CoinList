@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-09",
-        "gainers": [
-            "KITE",
-            "AXS",
-            "TRAC",
-            "RAIN",
-            "BAT"
-        ]
-    },
-    {
         "date": "2026-02-10",
         "gainers": [
             "PIPPIN",
@@ -97,6 +87,16 @@
             "QRL",
             "BAN",
             "WLFI"
+        ]
+    },
+    {
+        "date": "2026-02-19",
+        "gainers": [
+            "RAVE",
+            "SNX",
+            "KITE",
+            "TIBBIR",
+            "INJ"
         ]
     }
 ]

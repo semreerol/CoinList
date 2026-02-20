@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-10",
-        "gainers": [
-            "PIPPIN",
-            "RIVER",
-            "STABLE",
-            "MON",
-            "ASTER"
-        ]
-    },
-    {
         "date": "2026-02-11",
         "gainers": [
             "BERA",
@@ -97,6 +87,16 @@
             "KITE",
             "TIBBIR",
             "INJ"
+        ]
+    },
+    {
+        "date": "2026-02-20",
+        "gainers": [
+            "VVV",
+            "MYX",
+            "RAVE",
+            "9BIT",
+            "SNX"
         ]
     }
 ]

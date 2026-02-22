@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-12",
-        "gainers": [
-            "RIVER",
-            "TIBBIR",
-            "0G",
-            "KITE",
-            "TWT"
-        ]
-    },
-    {
         "date": "2026-02-13",
         "gainers": [
             "VVV",
@@ -97,6 +87,16 @@
             "TIBBIR",
             "SIREN",
             "RAVE"
+        ]
+    },
+    {
+        "date": "2026-02-22",
+        "gainers": [
+            "HUNT",
+            "PIPPIN",
+            "KITE",
+            "COW",
+            "DEXE"
         ]
     }
 ]

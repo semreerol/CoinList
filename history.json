@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-13",
-        "gainers": [
-            "VVV",
-            "H",
-            "COMP",
-            "KITE",
-            "ZEC"
-        ]
-    },
-    {
         "date": "2026-02-14",
         "gainers": [
             "PEPE",
@@ -97,6 +87,16 @@
             "KITE",
             "COW",
             "DEXE"
+        ]
+    },
+    {
+        "date": "2026-02-23",
+        "gainers": [
+            "PIPPIN",
+            "SENT",
+            "DEXE",
+            "SIREN",
+            "RIVER"
         ]
     }
 ]

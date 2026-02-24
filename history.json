@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-14",
-        "gainers": [
-            "PEPE",
-            "HNT",
-            "ZEC",
-            "PYTH",
-            "PENGU"
-        ]
-    },
-    {
         "date": "2026-02-15",
         "gainers": [
             "VVV",
@@ -97,6 +87,16 @@
             "DEXE",
             "SIREN",
             "RIVER"
+        ]
+    },
+    {
+        "date": "2026-02-24",
+        "gainers": [
+            "POWER",
+            "SKR",
+            "DEXE",
+            "TIBBIR",
+            "SIREN"
         ]
     }
 ]

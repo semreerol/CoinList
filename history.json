@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-15",
-        "gainers": [
-            "VVV",
-            "HNT",
-            "H",
-            "STABLE",
-            "KITE"
-        ]
-    },
-    {
         "date": "2026-02-16",
         "gainers": [
             "SIREN",
@@ -97,6 +87,16 @@
             "DEXE",
             "TIBBIR",
             "SIREN"
+        ]
+    },
+    {
+        "date": "2026-02-25",
+        "gainers": [
+            "DOT",
+            "POWER",
+            "NEAR",
+            "FIL",
+            "APT"
         ]
     }
 ]

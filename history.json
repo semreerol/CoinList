@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-16",
-        "gainers": [
-            "SIREN",
-            "STABLE",
-            "M",
-            "HNT",
-            "TAO"
-        ]
-    },
-    {
         "date": "2026-02-17",
         "gainers": [
             "JTO",
@@ -97,6 +87,16 @@
             "NEAR",
             "FIL",
             "APT"
+        ]
+    },
+    {
+        "date": "2026-02-26",
+        "gainers": [
+            "POWER",
+            "RIVER",
+            "STABLE",
+            "ZANO",
+            "DCR"
         ]
     }
 ]

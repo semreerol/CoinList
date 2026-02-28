@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-18",
-        "gainers": [
-            "AWE",
-            "HNT",
-            "QRL",
-            "BAN",
-            "WLFI"
-        ]
-    },
-    {
         "date": "2026-02-19",
         "gainers": [
             "RAVE",
@@ -97,6 +87,16 @@
             "VVV",
             "MWC",
             "DCR"
+        ]
+    },
+    {
+        "date": "2026-02-28",
+        "gainers": [
+            "POWER",
+            "GRASS",
+            "VVV",
+            "BARD",
+            "RIVER"
         ]
     }
 ]

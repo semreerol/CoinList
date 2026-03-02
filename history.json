@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-20",
-        "gainers": [
-            "VVV",
-            "MYX",
-            "RAVE",
-            "9BIT",
-            "SNX"
-        ]
-    },
-    {
         "date": "2026-02-21",
         "gainers": [
             "HUNT",
@@ -97,6 +87,16 @@
             "B",
             "HYPE",
             "JUP"
+        ]
+    },
+    {
+        "date": "2026-03-02",
+        "gainers": [
+            "SIREN",
+            "ROBO",
+            "GRASS",
+            "NEAR",
+            "CHEEMS"
         ]
     }
 ]

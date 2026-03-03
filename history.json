@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-21",
-        "gainers": [
-            "HUNT",
-            "9BIT",
-            "TIBBIR",
-            "SIREN",
-            "RAVE"
-        ]
-    },
-    {
         "date": "2026-02-22",
         "gainers": [
             "HUNT",
@@ -97,6 +87,16 @@
             "GRASS",
             "NEAR",
             "CHEEMS"
+        ]
+    },
+    {
+        "date": "2026-03-03",
+        "gainers": [
+            "RIVER",
+            "FORM",
+            "XPL",
+            "XDC",
+            "BARD"
         ]
     }
 ]

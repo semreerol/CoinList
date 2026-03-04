@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-22",
-        "gainers": [
-            "HUNT",
-            "PIPPIN",
-            "KITE",
-            "COW",
-            "DEXE"
-        ]
-    },
-    {
         "date": "2026-02-23",
         "gainers": [
             "PIPPIN",
@@ -97,6 +87,16 @@
             "XPL",
             "XDC",
             "BARD"
+        ]
+    },
+    {
+        "date": "2026-03-04",
+        "gainers": [
+            "SHFL",
+            "MWC",
+            "QRL",
+            "B",
+            "MON"
         ]
     }
 ]

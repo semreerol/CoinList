@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-23",
-        "gainers": [
-            "PIPPIN",
-            "SENT",
-            "DEXE",
-            "SIREN",
-            "RIVER"
-        ]
-    },
-    {
         "date": "2026-02-24",
         "gainers": [
             "POWER",
@@ -97,6 +87,16 @@
             "QRL",
             "B",
             "MON"
+        ]
+    },
+    {
+        "date": "2026-03-05",
+        "gainers": [
+            "BARD",
+            "H",
+            "SIREN",
+            "OKB",
+            "KITE"
         ]
     }
 ]

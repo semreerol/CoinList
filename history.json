@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-25",
-        "gainers": [
-            "DOT",
-            "POWER",
-            "NEAR",
-            "FIL",
-            "APT"
-        ]
-    },
-    {
         "date": "2026-02-26",
         "gainers": [
             "POWER",
@@ -97,6 +87,16 @@
             "DEXE",
             "PI",
             "BTSE"
+        ]
+    },
+    {
+        "date": "2026-03-07",
+        "gainers": [
+            "PI",
+            "AKT",
+            "9BIT",
+            "HASH",
+            "KITE"
         ]
     }
 ]

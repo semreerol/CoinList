@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-27",
-        "gainers": [
-            "B",
-            "LUNC",
-            "VVV",
-            "MWC",
-            "DCR"
-        ]
-    },
-    {
         "date": "2026-02-28",
         "gainers": [
             "POWER",
@@ -97,6 +87,16 @@
             "TAO",
             "GRASS",
             "ZRO"
+        ]
+    },
+    {
+        "date": "2026-03-09",
+        "gainers": [
+            "DEXE",
+            "GRASS",
+            "HYPE",
+            "PIPPIN",
+            "COW"
         ]
     }
 ]

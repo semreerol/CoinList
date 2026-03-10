@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-02-28",
-        "gainers": [
-            "POWER",
-            "GRASS",
-            "VVV",
-            "BARD",
-            "RIVER"
-        ]
-    },
-    {
         "date": "2026-03-01",
         "gainers": [
             "VVV",
@@ -97,6 +87,16 @@
             "HYPE",
             "PIPPIN",
             "COW"
+        ]
+    },
+    {
+        "date": "2026-03-10",
+        "gainers": [
+            "RIVER",
+            "AKT",
+            "BSV",
+            "GRASS",
+            "BMX"
         ]
     }
 ]

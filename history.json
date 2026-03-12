@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-02",
-        "gainers": [
-            "SIREN",
-            "ROBO",
-            "GRASS",
-            "NEAR",
-            "CHEEMS"
-        ]
-    },
-    {
         "date": "2026-03-03",
         "gainers": [
             "RIVER",
@@ -97,6 +87,16 @@
             "COMP",
             "QRL",
             "BERA"
+        ]
+    },
+    {
+        "date": "2026-03-12",
+        "gainers": [
+            "RIVER",
+            "PI",
+            "SIREN",
+            "RENDER",
+            "FET"
         ]
     }
 ]

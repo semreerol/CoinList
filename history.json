@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-03",
-        "gainers": [
-            "RIVER",
-            "FORM",
-            "XPL",
-            "XDC",
-            "BARD"
-        ]
-    },
-    {
         "date": "2026-03-04",
         "gainers": [
             "SHFL",
@@ -97,6 +87,16 @@
             "SIREN",
             "RENDER",
             "FET"
+        ]
+    },
+    {
+        "date": "2026-03-13",
+        "gainers": [
+            "TRUMP",
+            "TAO",
+            "DEXE",
+            "MELANIA",
+            "BERA"
         ]
     }
 ]

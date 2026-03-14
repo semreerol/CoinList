@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-04",
-        "gainers": [
-            "SHFL",
-            "MWC",
-            "QRL",
-            "B",
-            "MON"
-        ]
-    },
-    {
         "date": "2026-03-05",
         "gainers": [
             "BARD",
@@ -97,6 +87,16 @@
             "DEXE",
             "MELANIA",
             "BERA"
+        ]
+    },
+    {
+        "date": "2026-03-14",
+        "gainers": [
+            "GRX",
+            "DEXE",
+            "MNT",
+            "APEPE",
+            "RIVER"
         ]
     }
 ]

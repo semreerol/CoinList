@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-05",
-        "gainers": [
-            "BARD",
-            "H",
-            "SIREN",
-            "OKB",
-            "KITE"
-        ]
-    },
-    {
         "date": "2026-03-06",
         "gainers": [
             "SENT",
@@ -97,6 +87,16 @@
             "MNT",
             "APEPE",
             "RIVER"
+        ]
+    },
+    {
+        "date": "2026-03-15",
+        "gainers": [
+            "QUBIC",
+            "TAO",
+            "SN64",
+            "XCN",
+            "BAN"
         ]
     }
 ]

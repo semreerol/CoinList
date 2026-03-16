@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-06",
-        "gainers": [
-            "SENT",
-            "BAN",
-            "DEXE",
-            "PI",
-            "BTSE"
-        ]
-    },
-    {
         "date": "2026-03-07",
         "gainers": [
             "PI",
@@ -97,6 +87,16 @@
             "SN64",
             "XCN",
             "BAN"
+        ]
+    },
+    {
+        "date": "2026-03-16",
+        "gainers": [
+            "ZEC",
+            "GRASS",
+            "B",
+            "FET",
+            "FARTCOIN"
         ]
     }
 ]

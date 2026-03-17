@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-07",
-        "gainers": [
-            "PI",
-            "AKT",
-            "9BIT",
-            "HASH",
-            "KITE"
-        ]
-    },
-    {
         "date": "2026-03-08",
         "gainers": [
             "DEXE",
@@ -97,6 +87,16 @@
             "B",
             "FET",
             "FARTCOIN"
+        ]
+    },
+    {
+        "date": "2026-03-17",
+        "gainers": [
+            "SIREN",
+            "BAN",
+            "M",
+            "LIT",
+            "AKT"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-09",
-        "gainers": [
-            "DEXE",
-            "GRASS",
-            "HYPE",
-            "PIPPIN",
-            "COW"
-        ]
-    },
-    {
         "date": "2026-03-10",
         "gainers": [
             "RIVER",
@@ -97,6 +87,16 @@
             "HASH",
             "RIVER",
             "KAS"
+        ]
+    },
+    {
+        "date": "2026-03-19",
+        "gainers": [
+            "UAI",
+            "ZANO",
+            "ZBCN",
+            "DEXE",
+            "ATH"
         ]
     }
 ]

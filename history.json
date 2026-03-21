@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-11",
-        "gainers": [
-            "ICP",
-            "AR",
-            "COMP",
-            "QRL",
-            "BERA"
-        ]
-    },
-    {
         "date": "2026-03-12",
         "gainers": [
             "RIVER",
@@ -97,6 +87,16 @@
             "ZANO",
             "ATH",
             "PI"
+        ]
+    },
+    {
+        "date": "2026-03-21",
+        "gainers": [
+            "RIVER",
+            "DEXE",
+            "AKT",
+            "VVV",
+            "SKY"
         ]
     }
 ]

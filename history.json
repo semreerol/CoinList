@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-12",
-        "gainers": [
-            "RIVER",
-            "PI",
-            "SIREN",
-            "RENDER",
-            "FET"
-        ]
-    },
-    {
         "date": "2026-03-13",
         "gainers": [
             "TRUMP",
@@ -97,6 +87,16 @@
             "AKT",
             "VVV",
             "SKY"
+        ]
+    },
+    {
+        "date": "2026-03-22",
+        "gainers": [
+            "SIREN",
+            "BANANAS31",
+            "RIVER",
+            "DEXE",
+            "XMR"
         ]
     }
 ]

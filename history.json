@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-13",
-        "gainers": [
-            "TRUMP",
-            "TAO",
-            "DEXE",
-            "MELANIA",
-            "BERA"
-        ]
-    },
-    {
         "date": "2026-03-14",
         "gainers": [
             "GRX",
@@ -97,6 +87,16 @@
             "RIVER",
             "DEXE",
             "XMR"
+        ]
+    },
+    {
+        "date": "2026-03-23",
+        "gainers": [
+            "UDS",
+            "JTO",
+            "HNT",
+            "AERO",
+            "AR"
         ]
     }
 ]

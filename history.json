@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-14",
-        "gainers": [
-            "GRX",
-            "DEXE",
-            "MNT",
-            "APEPE",
-            "RIVER"
-        ]
-    },
-    {
         "date": "2026-03-15",
         "gainers": [
             "QUBIC",
@@ -97,6 +87,16 @@
             "HNT",
             "AERO",
             "AR"
+        ]
+    },
+    {
+        "date": "2026-03-24",
+        "gainers": [
+            "SN3",
+            "TAO",
+            "BAT",
+            "SN64",
+            "KITE"
         ]
     }
 ]

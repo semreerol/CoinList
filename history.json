@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-15",
-        "gainers": [
-            "QUBIC",
-            "TAO",
-            "SN64",
-            "XCN",
-            "BAN"
-        ]
-    },
-    {
         "date": "2026-03-16",
         "gainers": [
             "ZEC",
@@ -97,6 +87,16 @@
             "BAT",
             "SN64",
             "KITE"
+        ]
+    },
+    {
+        "date": "2026-03-25",
+        "gainers": [
+            "SIREN",
+            "M",
+            "DCR",
+            "MON",
+            "9BIT"
         ]
     }
 ]

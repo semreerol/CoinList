@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-17",
-        "gainers": [
-            "SIREN",
-            "BAN",
-            "M",
-            "LIT",
-            "AKT"
-        ]
-    },
-    {
         "date": "2026-03-18",
         "gainers": [
             "SOS",
@@ -97,6 +87,16 @@
             "EURS",
             "ADI",
             "JST"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "gainers": [
+            "XFLOKI",
+            "ICNT",
+            "LDO",
+            "SHFL",
+            "DEXE"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-18",
-        "gainers": [
-            "SOS",
-            "SIREN",
-            "HASH",
-            "RIVER",
-            "KAS"
-        ]
-    },
-    {
         "date": "2026-03-19",
         "gainers": [
             "UAI",
@@ -97,6 +87,16 @@
             "LDO",
             "SHFL",
             "DEXE"
+        ]
+    },
+    {
+        "date": "2026-03-28",
+        "gainers": [
+            "DOGESTR",
+            "NOON",
+            "SIREN",
+            "HASH",
+            "CHZ"
         ]
     }
 ]

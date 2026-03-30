@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-20",
-        "gainers": [
-            "ZBCN",
-            "SIREN",
-            "ZANO",
-            "ATH",
-            "PI"
-        ]
-    },
-    {
         "date": "2026-03-21",
         "gainers": [
             "RIVER",
@@ -97,6 +87,16 @@
             "WEMIX",
             "SHFL",
             "SN3"
+        ]
+    },
+    {
+        "date": "2026-03-30",
+        "gainers": [
+            "RIVER",
+            "2Z",
+            "DEXE",
+            "JUP",
+            "CHZ"
         ]
     }
 ]

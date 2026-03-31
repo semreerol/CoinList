@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-21",
-        "gainers": [
-            "RIVER",
-            "DEXE",
-            "AKT",
-            "VVV",
-            "SKY"
-        ]
-    },
-    {
         "date": "2026-03-22",
         "gainers": [
             "SIREN",
@@ -97,6 +87,16 @@
             "DEXE",
             "JUP",
             "CHZ"
+        ]
+    },
+    {
+        "date": "2026-03-31",
+        "gainers": [
+            "QRL",
+            "STABLE",
+            "EDGE",
+            "ALGO",
+            "MON"
         ]
     }
 ]

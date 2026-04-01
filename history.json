@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-22",
-        "gainers": [
-            "SIREN",
-            "BANANAS31",
-            "RIVER",
-            "DEXE",
-            "XMR"
-        ]
-    },
-    {
         "date": "2026-03-23",
         "gainers": [
             "UDS",
@@ -97,6 +87,16 @@
             "EDGE",
             "ALGO",
             "MON"
+        ]
+    },
+    {
+        "date": "2026-04-01",
+        "gainers": [
+            "XPL",
+            "VSN",
+            "S",
+            "ALGO",
+            "TEL"
         ]
     }
 ]

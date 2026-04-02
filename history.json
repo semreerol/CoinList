@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-23",
-        "gainers": [
-            "UDS",
-            "JTO",
-            "HNT",
-            "AERO",
-            "AR"
-        ]
-    },
-    {
         "date": "2026-03-24",
         "gainers": [
             "SN3",
@@ -97,6 +87,16 @@
             "S",
             "ALGO",
             "TEL"
+        ]
+    },
+    {
+        "date": "2026-04-02",
+        "gainers": [
+            "LILPEPE",
+            "EDGE",
+            "XPL",
+            "LIT",
+            "HASH"
         ]
     }
 ]

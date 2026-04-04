@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-25",
-        "gainers": [
-            "SIREN",
-            "M",
-            "DCR",
-            "MON",
-            "9BIT"
-        ]
-    },
-    {
         "date": "2026-03-26",
         "gainers": [
             "XCN",
@@ -97,6 +87,16 @@
             "TRAC",
             "ALGO",
             "IOTA"
+        ]
+    },
+    {
+        "date": "2026-04-04",
+        "gainers": [
+            "SIREN",
+            "KITE",
+            "ZBCN",
+            "BSV",
+            "DEXE"
         ]
     }
 ]

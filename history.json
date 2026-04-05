@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-26",
-        "gainers": [
-            "XCN",
-            "NIGHT",
-            "EURS",
-            "ADI",
-            "JST"
-        ]
-    },
-    {
         "date": "2026-03-27",
         "gainers": [
             "XFLOKI",
@@ -97,6 +87,16 @@
             "ZBCN",
             "BSV",
             "DEXE"
+        ]
+    },
+    {
+        "date": "2026-04-05",
+        "gainers": [
+            "OM",
+            "2Z",
+            "M",
+            "B",
+            "JST"
         ]
     }
 ]

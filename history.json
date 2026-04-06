@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-27",
-        "gainers": [
-            "XFLOKI",
-            "ICNT",
-            "LDO",
-            "SHFL",
-            "DEXE"
-        ]
-    },
-    {
         "date": "2026-03-28",
         "gainers": [
             "DOGESTR",
@@ -97,6 +87,16 @@
             "M",
             "B",
             "JST"
+        ]
+    },
+    {
+        "date": "2026-04-06",
+        "gainers": [
+            "ULTIMA",
+            "SIREN",
+            "RIVER",
+            "KITE",
+            "ARIA"
         ]
     }
 ]

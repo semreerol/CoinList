@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-29",
-        "gainers": [
-            "SENT",
-            "SIREN",
-            "WEMIX",
-            "SHFL",
-            "SN3"
-        ]
-    },
-    {
         "date": "2026-03-30",
         "gainers": [
             "RIVER",
@@ -97,6 +87,16 @@
             "EDGE",
             "FARTCOIN",
             "ZRO"
+        ]
+    },
+    {
+        "date": "2026-04-08",
+        "gainers": [
+            "ARIA",
+            "LUX",
+            "UDS",
+            "SHFL",
+            "SYRUP"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-30",
-        "gainers": [
-            "RIVER",
-            "2Z",
-            "DEXE",
-            "JUP",
-            "CHZ"
-        ]
-    },
-    {
         "date": "2026-03-31",
         "gainers": [
             "QRL",
@@ -97,6 +87,16 @@
             "UDS",
             "SHFL",
             "SYRUP"
+        ]
+    },
+    {
+        "date": "2026-04-09",
+        "gainers": [
+            "RAVE",
+            "SIREN",
+            "CFG",
+            "DASH",
+            "ZEC"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-03-31",
-        "gainers": [
-            "QRL",
-            "STABLE",
-            "EDGE",
-            "ALGO",
-            "MON"
-        ]
-    },
-    {
         "date": "2026-04-01",
         "gainers": [
             "XPL",
@@ -97,6 +87,16 @@
             "CFG",
             "DASH",
             "ZEC"
+        ]
+    },
+    {
+        "date": "2026-04-10",
+        "gainers": [
+            "RAVE",
+            "FF",
+            "\u5e01\u5b89\u4eba\u751f",
+            "DASH",
+            "H"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-01",
-        "gainers": [
-            "XPL",
-            "VSN",
-            "S",
-            "ALGO",
-            "TEL"
-        ]
-    },
-    {
         "date": "2026-04-02",
         "gainers": [
             "LILPEPE",
@@ -97,6 +87,16 @@
             "\u5e01\u5b89\u4eba\u751f",
             "DASH",
             "H"
+        ]
+    },
+    {
+        "date": "2026-04-11",
+        "gainers": [
+            "RAVE",
+            "GWEI",
+            "ARIA",
+            "\u5e01\u5b89\u4eba\u751f",
+            "VVV"
         ]
     }
 ]

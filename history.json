@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-02",
-        "gainers": [
-            "LILPEPE",
-            "EDGE",
-            "XPL",
-            "LIT",
-            "HASH"
-        ]
-    },
-    {
         "date": "2026-04-03",
         "gainers": [
             "EDGE",
@@ -97,6 +87,16 @@
             "ARIA",
             "\u5e01\u5b89\u4eba\u751f",
             "VVV"
+        ]
+    },
+    {
+        "date": "2026-04-12",
+        "gainers": [
+            "RAVE",
+            "\u5e01\u5b89\u4eba\u751f",
+            "TIBBIR",
+            "ULTIMA",
+            "0G"
         ]
     }
 ]

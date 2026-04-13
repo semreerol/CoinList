@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-03",
-        "gainers": [
-            "EDGE",
-            "GAS",
-            "TRAC",
-            "ALGO",
-            "IOTA"
-        ]
-    },
-    {
         "date": "2026-04-04",
         "gainers": [
             "SIREN",
@@ -97,6 +87,16 @@
             "TIBBIR",
             "ULTIMA",
             "0G"
+        ]
+    },
+    {
+        "date": "2026-04-13",
+        "gainers": [
+            "GENIUS",
+            "RAVE",
+            "TIBBIR",
+            "\u5e01\u5b89\u4eba\u751f",
+            "CRCLON"
         ]
     }
 ]

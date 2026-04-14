@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-04",
-        "gainers": [
-            "SIREN",
-            "KITE",
-            "ZBCN",
-            "BSV",
-            "DEXE"
-        ]
-    },
-    {
         "date": "2026-04-05",
         "gainers": [
             "OM",
@@ -97,6 +87,16 @@
             "TIBBIR",
             "\u5e01\u5b89\u4eba\u751f",
             "CRCLON"
+        ]
+    },
+    {
+        "date": "2026-04-14",
+        "gainers": [
+            "OM",
+            "RAVE",
+            "\u5e01\u5b89\u4eba\u751f",
+            "ENJ",
+            "RIVER"
         ]
     }
 ]

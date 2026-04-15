@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-05",
-        "gainers": [
-            "OM",
-            "2Z",
-            "M",
-            "B",
-            "JST"
-        ]
-    },
-    {
         "date": "2026-04-06",
         "gainers": [
             "ULTIMA",
@@ -97,6 +87,16 @@
             "\u5e01\u5b89\u4eba\u751f",
             "ENJ",
             "RIVER"
+        ]
+    },
+    {
+        "date": "2026-04-15",
+        "gainers": [
+            "ENJ",
+            "DEXE",
+            "CHZ",
+            "H",
+            "AR"
         ]
     }
 ]

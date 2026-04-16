@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-06",
-        "gainers": [
-            "ULTIMA",
-            "SIREN",
-            "RIVER",
-            "KITE",
-            "ARIA"
-        ]
-    },
-    {
         "date": "2026-04-07",
         "gainers": [
             "ZEC",
@@ -97,6 +87,16 @@
             "CHZ",
             "H",
             "AR"
+        ]
+    },
+    {
+        "date": "2026-04-16",
+        "gainers": [
+            "ORDI",
+            "SIREN",
+            "RAVE",
+            "SKYAI",
+            "M"
         ]
     }
 ]

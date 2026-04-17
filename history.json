@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-07",
-        "gainers": [
-            "ZEC",
-            "TIBBIR",
-            "EDGE",
-            "FARTCOIN",
-            "ZRO"
-        ]
-    },
-    {
         "date": "2026-04-08",
         "gainers": [
             "ARIA",
@@ -97,6 +87,16 @@
             "RAVE",
             "SKYAI",
             "M"
+        ]
+    },
+    {
+        "date": "2026-04-17",
+        "gainers": [
+            "RAVE",
+            "GWEI",
+            "SKYAI",
+            "EDGE",
+            "\u5e01\u5b89\u4eba\u751f"
         ]
     }
 ]

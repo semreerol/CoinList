@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-08",
-        "gainers": [
-            "ARIA",
-            "LUX",
-            "UDS",
-            "SHFL",
-            "SYRUP"
-        ]
-    },
-    {
         "date": "2026-04-09",
         "gainers": [
             "RAVE",
@@ -97,6 +87,16 @@
             "SKYAI",
             "EDGE",
             "\u5e01\u5b89\u4eba\u751f"
+        ]
+    },
+    {
+        "date": "2026-04-18",
+        "gainers": [
+            "ASTEROID",
+            "PIEVERSE",
+            "\u5e01\u5b89\u4eba\u751f",
+            "GWEI",
+            "DEXE"
         ]
     }
 ]

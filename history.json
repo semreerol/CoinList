@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-09",
-        "gainers": [
-            "RAVE",
-            "SIREN",
-            "CFG",
-            "DASH",
-            "ZEC"
-        ]
-    },
-    {
         "date": "2026-04-10",
         "gainers": [
             "RAVE",
@@ -97,6 +87,16 @@
             "\u5e01\u5b89\u4eba\u751f",
             "GWEI",
             "DEXE"
+        ]
+    },
+    {
+        "date": "2026-04-19",
+        "gainers": [
+            "PIEVERSE",
+            "BTSE",
+            "ASTEROID",
+            "DEXE",
+            "HNT"
         ]
     }
 ]

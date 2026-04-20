@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-10",
-        "gainers": [
-            "RAVE",
-            "FF",
-            "\u5e01\u5b89\u4eba\u751f",
-            "DASH",
-            "H"
-        ]
-    },
-    {
         "date": "2026-04-11",
         "gainers": [
             "RAVE",
@@ -97,6 +87,16 @@
             "ASTEROID",
             "DEXE",
             "HNT"
+        ]
+    },
+    {
+        "date": "2026-04-20",
+        "gainers": [
+            "RAVE",
+            "ASTEROID",
+            "CHZ",
+            "EDGE",
+            "BAT"
         ]
     }
 ]

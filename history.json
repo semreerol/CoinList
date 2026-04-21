@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-11",
-        "gainers": [
-            "RAVE",
-            "GWEI",
-            "ARIA",
-            "\u5e01\u5b89\u4eba\u751f",
-            "VVV"
-        ]
-    },
-    {
         "date": "2026-04-12",
         "gainers": [
             "RAVE",
@@ -97,6 +87,16 @@
             "CHZ",
             "EDGE",
             "BAT"
+        ]
+    },
+    {
+        "date": "2026-04-21",
+        "gainers": [
+            "GWEI",
+            "RAVE",
+            "M",
+            "GRASS",
+            "JST"
         ]
     }
 ]

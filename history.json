@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-12",
-        "gainers": [
-            "RAVE",
-            "\u5e01\u5b89\u4eba\u751f",
-            "TIBBIR",
-            "ULTIMA",
-            "0G"
-        ]
-    },
-    {
         "date": "2026-04-13",
         "gainers": [
             "GENIUS",
@@ -97,6 +87,16 @@
             "M",
             "GRASS",
             "JST"
+        ]
+    },
+    {
+        "date": "2026-04-22",
+        "gainers": [
+            "CHIP",
+            "UB",
+            "ASTEROID",
+            "STRK",
+            "FLUID"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-14",
-        "gainers": [
-            "OM",
-            "RAVE",
-            "\u5e01\u5b89\u4eba\u751f",
-            "ENJ",
-            "RIVER"
-        ]
-    },
-    {
         "date": "2026-04-15",
         "gainers": [
             "ENJ",
@@ -97,6 +87,16 @@
             "SPK",
             "SKYAI",
             "SENT"
+        ]
+    },
+    {
+        "date": "2026-04-24",
+        "gainers": [
+            "APE",
+            "SKR",
+            "OHM",
+            "DYDX",
+            "GALA"
         ]
     }
 ]

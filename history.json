@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-15",
-        "gainers": [
-            "ENJ",
-            "DEXE",
-            "CHZ",
-            "H",
-            "AR"
-        ]
-    },
-    {
         "date": "2026-04-16",
         "gainers": [
             "ORDI",
@@ -97,6 +87,16 @@
             "OHM",
             "DYDX",
             "GALA"
+        ]
+    },
+    {
+        "date": "2026-04-25",
+        "gainers": [
+            "OM",
+            "BSB",
+            "AXS",
+            "B",
+            "ASTEROID"
         ]
     }
 ]

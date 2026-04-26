@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-16",
-        "gainers": [
-            "ORDI",
-            "SIREN",
-            "RAVE",
-            "SKYAI",
-            "M"
-        ]
-    },
-    {
         "date": "2026-04-17",
         "gainers": [
             "RAVE",
@@ -97,6 +87,16 @@
             "AXS",
             "B",
             "ASTEROID"
+        ]
+    },
+    {
+        "date": "2026-04-26",
+        "gainers": [
+            "GWEI",
+            "LDO",
+            "LUNC",
+            "UMXM",
+            "TRAC"
         ]
     }
 ]

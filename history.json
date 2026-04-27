@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-17",
-        "gainers": [
-            "RAVE",
-            "GWEI",
-            "SKYAI",
-            "EDGE",
-            "\u5e01\u5b89\u4eba\u751f"
-        ]
-    },
-    {
         "date": "2026-04-18",
         "gainers": [
             "ASTEROID",
@@ -97,6 +87,16 @@
             "LUNC",
             "UMXM",
             "TRAC"
+        ]
+    },
+    {
+        "date": "2026-04-27",
+        "gainers": [
+            "XCN",
+            "BCAP",
+            "HASH",
+            "PENGU",
+            "UMXM"
         ]
     }
 ]

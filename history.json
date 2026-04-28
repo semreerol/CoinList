@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-18",
-        "gainers": [
-            "ASTEROID",
-            "PIEVERSE",
-            "\u5e01\u5b89\u4eba\u751f",
-            "GWEI",
-            "DEXE"
-        ]
-    },
-    {
         "date": "2026-04-19",
         "gainers": [
             "PIEVERSE",
@@ -97,6 +87,16 @@
             "HASH",
             "PENGU",
             "UMXM"
+        ]
+    },
+    {
+        "date": "2026-04-28",
+        "gainers": [
+            "SKYAI",
+            "H",
+            "BSB",
+            "UB",
+            "APE"
         ]
     }
 ]

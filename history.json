@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-19",
-        "gainers": [
-            "PIEVERSE",
-            "BTSE",
-            "ASTEROID",
-            "DEXE",
-            "HNT"
-        ]
-    },
-    {
         "date": "2026-04-20",
         "gainers": [
             "RAVE",
@@ -97,6 +87,16 @@
             "BSB",
             "UB",
             "APE"
+        ]
+    },
+    {
+        "date": "2026-04-29",
+        "gainers": [
+            "SKYAI",
+            "ASTEROID",
+            "UB",
+            "RIVER",
+            "B"
         ]
     }
 ]

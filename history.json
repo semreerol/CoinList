@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-20",
-        "gainers": [
-            "RAVE",
-            "ASTEROID",
-            "CHZ",
-            "EDGE",
-            "BAT"
-        ]
-    },
-    {
         "date": "2026-04-21",
         "gainers": [
             "GWEI",
@@ -97,6 +87,16 @@
             "UB",
             "RIVER",
             "B"
+        ]
+    },
+    {
+        "date": "2026-04-30",
+        "gainers": [
+            "BSB",
+            "SKYAI",
+            "ORCA",
+            "GWEI",
+            "GENIUS"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-21",
-        "gainers": [
-            "GWEI",
-            "RAVE",
-            "M",
-            "GRASS",
-            "JST"
-        ]
-    },
-    {
         "date": "2026-04-22",
         "gainers": [
             "CHIP",
@@ -97,6 +87,16 @@
             "ORCA",
             "GWEI",
             "GENIUS"
+        ]
+    },
+    {
+        "date": "2026-05-01",
+        "gainers": [
+            "B",
+            "UB",
+            "9BIT",
+            "APE",
+            "PENDLE"
         ]
     }
 ]

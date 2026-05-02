@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-22",
-        "gainers": [
-            "CHIP",
-            "UB",
-            "ASTEROID",
-            "STRK",
-            "FLUID"
-        ]
-    },
-    {
         "date": "2026-04-23",
         "gainers": [
             "OM",
@@ -97,6 +87,16 @@
             "9BIT",
             "APE",
             "PENDLE"
+        ]
+    },
+    {
+        "date": "2026-05-02",
+        "gainers": [
+            "LAB",
+            "SKYAI",
+            "BSB",
+            "LUNC",
+            "UB"
         ]
     }
 ]

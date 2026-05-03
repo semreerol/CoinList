@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-23",
-        "gainers": [
-            "OM",
-            "STABLE",
-            "SPK",
-            "SKYAI",
-            "SENT"
-        ]
-    },
-    {
         "date": "2026-04-24",
         "gainers": [
             "APE",
@@ -97,6 +87,16 @@
             "BSB",
             "LUNC",
             "UB"
+        ]
+    },
+    {
+        "date": "2026-05-03",
+        "gainers": [
+            "B",
+            "TAG",
+            "LAB",
+            "BSB",
+            "ZEN"
         ]
     }
 ]

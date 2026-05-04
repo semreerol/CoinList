@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-24",
-        "gainers": [
-            "APE",
-            "SKR",
-            "OHM",
-            "DYDX",
-            "GALA"
-        ]
-    },
-    {
         "date": "2026-04-25",
         "gainers": [
             "OM",
@@ -97,6 +87,16 @@
             "LAB",
             "BSB",
             "ZEN"
+        ]
+    },
+    {
+        "date": "2026-05-04",
+        "gainers": [
+            "SKYAI",
+            "ASTEROID",
+            "RAVE",
+            "DASH",
+            "TON"
         ]
     }
 ]

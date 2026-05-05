@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-25",
-        "gainers": [
-            "OM",
-            "BSB",
-            "AXS",
-            "B",
-            "ASTEROID"
-        ]
-    },
-    {
         "date": "2026-04-26",
         "gainers": [
             "GWEI",
@@ -97,6 +87,16 @@
             "RAVE",
             "DASH",
             "TON"
+        ]
+    },
+    {
+        "date": "2026-05-05",
+        "gainers": [
+            "LAB",
+            "M",
+            "RIV",
+            "TON",
+            "ZEC"
         ]
     }
 ]

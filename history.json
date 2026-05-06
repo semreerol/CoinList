@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-26",
-        "gainers": [
-            "GWEI",
-            "LDO",
-            "LUNC",
-            "UMXM",
-            "TRAC"
-        ]
-    },
-    {
         "date": "2026-04-27",
         "gainers": [
             "XCN",
@@ -97,6 +87,16 @@
             "RIV",
             "TON",
             "ZEC"
+        ]
+    },
+    {
+        "date": "2026-05-06",
+        "gainers": [
+            "BILL",
+            "LAB",
+            "TON",
+            "BMX",
+            "ICP"
         ]
     }
 ]

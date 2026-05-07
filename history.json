@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-27",
-        "gainers": [
-            "XCN",
-            "BCAP",
-            "HASH",
-            "PENGU",
-            "UMXM"
-        ]
-    },
-    {
         "date": "2026-04-28",
         "gainers": [
             "SKYAI",
@@ -97,6 +87,16 @@
             "TON",
             "BMX",
             "ICP"
+        ]
+    },
+    {
+        "date": "2026-05-07",
+        "gainers": [
+            "JTO",
+            "DYDX",
+            "SIREN",
+            "STRK",
+            "WLFI"
         ]
     }
 ]

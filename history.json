@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-28",
-        "gainers": [
-            "SKYAI",
-            "H",
-            "BSB",
-            "UB",
-            "APE"
-        ]
-    },
-    {
         "date": "2026-04-29",
         "gainers": [
             "SKYAI",
@@ -97,6 +87,16 @@
             "SIREN",
             "STRK",
             "WLFI"
+        ]
+    },
+    {
+        "date": "2026-05-08",
+        "gainers": [
+            "BILL",
+            "ONDO",
+            "CHIP",
+            "STRK",
+            "AKT"
         ]
     }
 ]

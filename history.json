@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-29",
-        "gainers": [
-            "SKYAI",
-            "ASTEROID",
-            "UB",
-            "RIVER",
-            "B"
-        ]
-    },
-    {
         "date": "2026-04-30",
         "gainers": [
             "BSB",
@@ -97,6 +87,16 @@
             "CHIP",
             "STRK",
             "AKT"
+        ]
+    },
+    {
+        "date": "2026-05-09",
+        "gainers": [
+            "BILL",
+            "LAB",
+            "VVV",
+            "SIREN",
+            "JASMY"
         ]
     }
 ]

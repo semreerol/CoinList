@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-04-30",
-        "gainers": [
-            "BSB",
-            "SKYAI",
-            "ORCA",
-            "GWEI",
-            "GENIUS"
-        ]
-    },
-    {
         "date": "2026-05-01",
         "gainers": [
             "B",
@@ -97,6 +87,16 @@
             "VVV",
             "SIREN",
             "JASMY"
+        ]
+    },
+    {
+        "date": "2026-05-10",
+        "gainers": [
+            "SUI",
+            "\u5e01\u5b89\u4eba\u751f",
+            "XEC",
+            "UB",
+            "B"
         ]
     }
 ]

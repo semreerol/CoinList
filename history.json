@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-01",
-        "gainers": [
-            "B",
-            "UB",
-            "9BIT",
-            "APE",
-            "PENDLE"
-        ]
-    },
-    {
         "date": "2026-05-02",
         "gainers": [
             "LAB",
@@ -97,6 +87,16 @@
             "XEC",
             "UB",
             "B"
+        ]
+    },
+    {
+        "date": "2026-05-11",
+        "gainers": [
+            "B",
+            "H",
+            "BILL",
+            "VVV",
+            "BANANAS31"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-02",
-        "gainers": [
-            "LAB",
-            "SKYAI",
-            "BSB",
-            "LUNC",
-            "UB"
-        ]
-    },
-    {
         "date": "2026-05-03",
         "gainers": [
             "B",
@@ -97,6 +87,16 @@
             "BILL",
             "VVV",
             "BANANAS31"
+        ]
+    },
+    {
+        "date": "2026-05-12",
+        "gainers": [
+            "BILL",
+            "UB",
+            "SKYAI",
+            "TEL",
+            "SAHARA"
         ]
     }
 ]

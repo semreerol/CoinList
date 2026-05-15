@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-05",
-        "gainers": [
-            "LAB",
-            "M",
-            "RIV",
-            "TON",
-            "ZEC"
-        ]
-    },
-    {
         "date": "2026-05-06",
         "gainers": [
             "BILL",
@@ -97,6 +87,16 @@
             "HYPE",
             "BILL",
             "CFX"
+        ]
+    },
+    {
+        "date": "2026-05-15",
+        "gainers": [
+            "ASTEROID",
+            "FF",
+            "BEAT",
+            "UB",
+            "GWEI"
         ]
     }
 ]

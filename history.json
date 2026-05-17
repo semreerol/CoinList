@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-07",
-        "gainers": [
-            "JTO",
-            "DYDX",
-            "SIREN",
-            "STRK",
-            "WLFI"
-        ]
-    },
-    {
         "date": "2026-05-08",
         "gainers": [
             "BILL",
@@ -97,6 +87,16 @@
             "H",
             "ATOM",
             "ASTEROID"
+        ]
+    },
+    {
+        "date": "2026-05-17",
+        "gainers": [
+            "MBTC",
+            "BSB",
+            "KAIA",
+            "BILL",
+            "HYPE"
         ]
     }
 ]

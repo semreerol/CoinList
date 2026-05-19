@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-08",
-        "gainers": [
-            "BILL",
-            "ONDO",
-            "CHIP",
-            "STRK",
-            "AKT"
-        ]
-    },
-    {
         "date": "2026-05-09",
         "gainers": [
             "BILL",
@@ -97,6 +87,16 @@
             "KAIA",
             "BILL",
             "HYPE"
+        ]
+    },
+    {
+        "date": "2026-05-19",
+        "gainers": [
+            "TRAC",
+            "BSB",
+            "9BIT",
+            "MBTC",
+            "CFG"
         ]
     }
 ]

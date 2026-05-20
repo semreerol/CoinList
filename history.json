@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-09",
-        "gainers": [
-            "BILL",
-            "LAB",
-            "VVV",
-            "SIREN",
-            "JASMY"
-        ]
-    },
-    {
         "date": "2026-05-10",
         "gainers": [
             "SUI",
@@ -97,6 +87,16 @@
             "9BIT",
             "MBTC",
             "CFG"
+        ]
+    },
+    {
+        "date": "2026-05-20",
+        "gainers": [
+            "9BIT",
+            "BSB",
+            "LIT",
+            "M",
+            "VVV"
         ]
     }
 ]

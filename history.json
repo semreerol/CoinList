@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-12",
-        "gainers": [
-            "BILL",
-            "UB",
-            "SKYAI",
-            "TEL",
-            "SAHARA"
-        ]
-    },
-    {
         "date": "2026-05-13",
         "gainers": [
             "TROLL",
@@ -97,6 +87,16 @@
             "NEAR",
             "AERO",
             "LIT"
+        ]
+    },
+    {
+        "date": "2026-05-23",
+        "gainers": [
+            "BEAT",
+            "RAIL",
+            "GENIUS",
+            "TAG",
+            "USDA"
         ]
     }
 ]

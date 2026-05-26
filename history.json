@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-15",
-        "gainers": [
-            "ASTEROID",
-            "FF",
-            "BEAT",
-            "UB",
-            "GWEI"
-        ]
-    },
-    {
         "date": "2026-05-16",
         "gainers": [
             "XP",
@@ -97,6 +87,16 @@
             "DEXE",
             "RAIL",
             "GENIUS"
+        ]
+    },
+    {
+        "date": "2026-05-26",
+        "gainers": [
+            "UB",
+            "NEAR",
+            "GRASS",
+            "DEXE",
+            "TIA"
         ]
     }
 ]

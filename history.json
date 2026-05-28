@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-17",
-        "gainers": [
-            "MBTC",
-            "BSB",
-            "KAIA",
-            "BILL",
-            "HYPE"
-        ]
-    },
-    {
         "date": "2026-05-19",
         "gainers": [
             "TRAC",
@@ -97,6 +87,16 @@
             "LUNC",
             "OKB",
             "UB"
+        ]
+    },
+    {
+        "date": "2026-05-28",
+        "gainers": [
+            "RAIN",
+            "BEAT",
+            "XLM",
+            "AR",
+            "FF"
         ]
     }
 ]

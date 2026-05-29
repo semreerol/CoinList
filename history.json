@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-19",
-        "gainers": [
-            "TRAC",
-            "BSB",
-            "9BIT",
-            "MBTC",
-            "CFG"
-        ]
-    },
-    {
         "date": "2026-05-20",
         "gainers": [
             "9BIT",
@@ -97,6 +87,16 @@
             "XLM",
             "AR",
             "FF"
+        ]
+    },
+    {
+        "date": "2026-05-29",
+        "gainers": [
+            "XLM",
+            "H",
+            "XPL",
+            "BAT",
+            "ALGO"
         ]
     }
 ]

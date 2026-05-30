@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-20",
-        "gainers": [
-            "9BIT",
-            "BSB",
-            "LIT",
-            "M",
-            "VVV"
-        ]
-    },
-    {
         "date": "2026-05-21",
         "gainers": [
             "NEX",
@@ -97,6 +87,16 @@
             "XPL",
             "BAT",
             "ALGO"
+        ]
+    },
+    {
+        "date": "2026-05-30",
+        "gainers": [
+            "LAB",
+            "XLM",
+            "INJ",
+            "9BIT",
+            "H"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-22",
-        "gainers": [
-            "GRASS",
-            "BEAT",
-            "NEAR",
-            "AERO",
-            "LIT"
-        ]
-    },
-    {
         "date": "2026-05-23",
         "gainers": [
             "BEAT",
@@ -97,6 +87,16 @@
             "\u5e01\u5b89\u4eba\u751f",
             "WLD",
             "FET"
+        ]
+    },
+    {
+        "date": "2026-06-01",
+        "gainers": [
+            "HOME",
+            "KOGE",
+            "H",
+            "LAB",
+            "\u5e01\u5b89\u4eba\u751f"
         ]
     }
 ]

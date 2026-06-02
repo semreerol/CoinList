@@ -2,16 +2,6 @@
     {
         "date": "2026-05-23",
         "gainers": [
-            "BEAT",
-            "RAIL",
-            "GENIUS",
-            "TAG",
-            "USDA"
-        ]
-    },
-    {
-        "date": "2026-05-23",
-        "gainers": [
             "RAIL",
             "GRASS",
             "UB",
@@ -97,6 +87,16 @@
             "H",
             "LAB",
             "\u5e01\u5b89\u4eba\u751f"
+        ]
+    },
+    {
+        "date": "2026-06-02",
+        "gainers": [
+            "LAB",
+            "H",
+            "PIEVERSE",
+            "HOME",
+            "WLD"
         ]
     }
 ]

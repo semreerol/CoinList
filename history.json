@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-23",
-        "gainers": [
-            "RAIL",
-            "GRASS",
-            "UB",
-            "NEAR",
-            "BSB"
-        ]
-    },
-    {
         "date": "2026-05-24",
         "gainers": [
             "UB",
@@ -97,6 +87,16 @@
             "PIEVERSE",
             "HOME",
             "WLD"
+        ]
+    },
+    {
+        "date": "2026-06-03",
+        "gainers": [
+            "GENIUS",
+            "LIT",
+            "PIEVERSE",
+            "ZEC",
+            "\u5e01\u5b89\u4eba\u751f"
         ]
     }
 ]

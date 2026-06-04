@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-24",
-        "gainers": [
-            "UB",
-            "BILL",
-            "DEXE",
-            "RAIL",
-            "GENIUS"
-        ]
-    },
-    {
         "date": "2026-05-26",
         "gainers": [
             "UB",
@@ -97,6 +87,16 @@
             "PIEVERSE",
             "ZEC",
             "\u5e01\u5b89\u4eba\u751f"
+        ]
+    },
+    {
+        "date": "2026-06-04",
+        "gainers": [
+            "WLD",
+            "ENA",
+            "BEAT",
+            "LAB",
+            "KOGE"
         ]
     }
 ]

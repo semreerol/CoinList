@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-26",
-        "gainers": [
-            "UB",
-            "NEAR",
-            "GRASS",
-            "DEXE",
-            "TIA"
-        ]
-    },
-    {
         "date": "2026-05-27",
         "gainers": [
             "RAIN",
@@ -97,6 +87,16 @@
             "BEAT",
             "LAB",
             "KOGE"
+        ]
+    },
+    {
+        "date": "2026-06-05",
+        "gainers": [
+            "HOME",
+            "TEL",
+            "SIREN",
+            "B",
+            "DEXE"
         ]
     }
 ]

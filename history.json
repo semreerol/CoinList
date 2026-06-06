@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-27",
-        "gainers": [
-            "RAIN",
-            "WLD",
-            "LUNC",
-            "OKB",
-            "UB"
-        ]
-    },
-    {
         "date": "2026-05-28",
         "gainers": [
             "RAIN",
@@ -97,6 +87,16 @@
             "SIREN",
             "B",
             "DEXE"
+        ]
+    },
+    {
+        "date": "2026-06-06",
+        "gainers": [
+            "QAIT",
+            "BTW",
+            "BEAT",
+            "SKYAI",
+            "VVV"
         ]
     }
 ]

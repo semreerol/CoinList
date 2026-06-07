@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-28",
-        "gainers": [
-            "RAIN",
-            "BEAT",
-            "XLM",
-            "AR",
-            "FF"
-        ]
-    },
-    {
         "date": "2026-05-29",
         "gainers": [
             "XLM",
@@ -97,6 +87,16 @@
             "BEAT",
             "SKYAI",
             "VVV"
+        ]
+    },
+    {
+        "date": "2026-06-07",
+        "gainers": [
+            "SKYAI",
+            "LAB",
+            "BEAT",
+            "GWEI",
+            "\u5e01\u5b89\u4eba\u751f"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-29",
-        "gainers": [
-            "XLM",
-            "H",
-            "XPL",
-            "BAT",
-            "ALGO"
-        ]
-    },
-    {
         "date": "2026-05-30",
         "gainers": [
             "LAB",
@@ -97,6 +87,16 @@
             "BEAT",
             "GWEI",
             "\u5e01\u5b89\u4eba\u751f"
+        ]
+    },
+    {
+        "date": "2026-06-08",
+        "gainers": [
+            "SIREN",
+            "BEAT",
+            "RAIL",
+            "JTO",
+            "ZEC"
         ]
     }
 ]

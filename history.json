@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-30",
-        "gainers": [
-            "LAB",
-            "XLM",
-            "INJ",
-            "9BIT",
-            "H"
-        ]
-    },
-    {
         "date": "2026-05-31",
         "gainers": [
             "H",
@@ -97,6 +87,16 @@
             "RAIL",
             "JTO",
             "ZEC"
+        ]
+    },
+    {
+        "date": "2026-06-09",
+        "gainers": [
+            "GWEI",
+            "BEAT",
+            "VELVET",
+            "BANANAS31",
+            "COMP"
         ]
     }
 ]

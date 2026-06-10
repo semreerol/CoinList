@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-05-31",
-        "gainers": [
-            "H",
-            "LAB",
-            "\u5e01\u5b89\u4eba\u751f",
-            "WLD",
-            "FET"
-        ]
-    },
-    {
         "date": "2026-06-01",
         "gainers": [
             "HOME",
@@ -97,6 +87,16 @@
             "VELVET",
             "BANANAS31",
             "COMP"
+        ]
+    },
+    {
+        "date": "2026-06-10",
+        "gainers": [
+            "H",
+            "BTW",
+            "VELVET",
+            "SENT",
+            "RUNE"
         ]
     }
 ]

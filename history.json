@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-01",
-        "gainers": [
-            "HOME",
-            "KOGE",
-            "H",
-            "LAB",
-            "\u5e01\u5b89\u4eba\u751f"
-        ]
-    },
-    {
         "date": "2026-06-02",
         "gainers": [
             "LAB",
@@ -97,6 +87,16 @@
             "VELVET",
             "SENT",
             "RUNE"
+        ]
+    },
+    {
+        "date": "2026-06-11",
+        "gainers": [
+            "VELVET",
+            "BEAT",
+            "HASH",
+            "QAIT",
+            "NEX"
         ]
     }
 ]

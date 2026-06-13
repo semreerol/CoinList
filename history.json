@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-03",
-        "gainers": [
-            "GENIUS",
-            "LIT",
-            "PIEVERSE",
-            "ZEC",
-            "\u5e01\u5b89\u4eba\u751f"
-        ]
-    },
-    {
         "date": "2026-06-04",
         "gainers": [
             "WLD",
@@ -97,6 +87,16 @@
             "XPL",
             "PYTH",
             "H"
+        ]
+    },
+    {
+        "date": "2026-06-13",
+        "gainers": [
+            "BDX",
+            "TRUMP",
+            "SKYAI",
+            "H",
+            "LAB"
         ]
     }
 ]

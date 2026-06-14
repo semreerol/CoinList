@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-04",
-        "gainers": [
-            "WLD",
-            "ENA",
-            "BEAT",
-            "LAB",
-            "KOGE"
-        ]
-    },
-    {
         "date": "2026-06-05",
         "gainers": [
             "HOME",
@@ -97,6 +87,16 @@
             "SKYAI",
             "H",
             "LAB"
+        ]
+    },
+    {
+        "date": "2026-06-14",
+        "gainers": [
+            "RIF",
+            "H",
+            "TAO",
+            "BTW",
+            "VVV"
         ]
     }
 ]

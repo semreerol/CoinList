@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-05",
-        "gainers": [
-            "HOME",
-            "TEL",
-            "SIREN",
-            "B",
-            "DEXE"
-        ]
-    },
-    {
         "date": "2026-06-06",
         "gainers": [
             "QAIT",
@@ -97,6 +87,16 @@
             "TAO",
             "BTW",
             "VVV"
+        ]
+    },
+    {
+        "date": "2026-06-15",
+        "gainers": [
+            "H",
+            "BP",
+            "LAB",
+            "AKT",
+            "ZEC"
         ]
     }
 ]

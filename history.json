@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-06",
-        "gainers": [
-            "QAIT",
-            "BTW",
-            "BEAT",
-            "SKYAI",
-            "VVV"
-        ]
-    },
-    {
         "date": "2026-06-07",
         "gainers": [
             "SKYAI",
@@ -97,6 +87,16 @@
             "LAB",
             "AKT",
             "ZEC"
+        ]
+    },
+    {
+        "date": "2026-06-16",
+        "gainers": [
+            "JTO",
+            "ZRO",
+            "UNI",
+            "AERO",
+            "XLM"
         ]
     }
 ]

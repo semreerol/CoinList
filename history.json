@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-07",
-        "gainers": [
-            "SKYAI",
-            "LAB",
-            "BEAT",
-            "GWEI",
-            "\u5e01\u5b89\u4eba\u751f"
-        ]
-    },
-    {
         "date": "2026-06-08",
         "gainers": [
             "SIREN",
@@ -97,6 +87,16 @@
             "UNI",
             "AERO",
             "XLM"
+        ]
+    },
+    {
+        "date": "2026-06-17",
+        "gainers": [
+            "BSB",
+            "LAB",
+            "SENT",
+            "SKYAI",
+            "VELVET"
         ]
     }
 ]

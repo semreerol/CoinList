@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-08",
-        "gainers": [
-            "SIREN",
-            "BEAT",
-            "RAIL",
-            "JTO",
-            "ZEC"
-        ]
-    },
-    {
         "date": "2026-06-09",
         "gainers": [
             "GWEI",
@@ -97,6 +87,16 @@
             "SENT",
             "SKYAI",
             "VELVET"
+        ]
+    },
+    {
+        "date": "2026-06-18",
+        "gainers": [
+            "XPL",
+            "TAG",
+            "ETHFI",
+            "ENA",
+            "BP"
         ]
     }
 ]

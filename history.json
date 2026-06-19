@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-09",
-        "gainers": [
-            "GWEI",
-            "BEAT",
-            "VELVET",
-            "BANANAS31",
-            "COMP"
-        ]
-    },
-    {
         "date": "2026-06-10",
         "gainers": [
             "H",
@@ -97,6 +87,16 @@
             "ETHFI",
             "ENA",
             "BP"
+        ]
+    },
+    {
+        "date": "2026-06-19",
+        "gainers": [
+            "LAB",
+            "VELVET",
+            "BP",
+            "HASH",
+            "EIGEN"
         ]
     }
 ]

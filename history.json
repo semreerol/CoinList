@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-10",
-        "gainers": [
-            "H",
-            "BTW",
-            "VELVET",
-            "SENT",
-            "RUNE"
-        ]
-    },
-    {
         "date": "2026-06-11",
         "gainers": [
             "VELVET",
@@ -97,6 +87,16 @@
             "BP",
             "HASH",
             "EIGEN"
+        ]
+    },
+    {
+        "date": "2026-06-20",
+        "gainers": [
+            "BTW",
+            "O",
+            "9BIT",
+            "EIGEN",
+            "DEXE"
         ]
     }
 ]

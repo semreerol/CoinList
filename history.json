@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-11",
-        "gainers": [
-            "VELVET",
-            "BEAT",
-            "HASH",
-            "QAIT",
-            "NEX"
-        ]
-    },
-    {
         "date": "2026-06-12",
         "gainers": [
             "VELVET",
@@ -97,6 +87,16 @@
             "9BIT",
             "EIGEN",
             "DEXE"
+        ]
+    },
+    {
+        "date": "2026-06-21",
+        "gainers": [
+            "BTW",
+            "AXS",
+            "SAND",
+            "RE",
+            "AERO"
         ]
     }
 ]

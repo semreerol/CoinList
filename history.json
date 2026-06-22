@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-12",
-        "gainers": [
-            "VELVET",
-            "SKYAI",
-            "XPL",
-            "PYTH",
-            "H"
-        ]
-    },
-    {
         "date": "2026-06-13",
         "gainers": [
             "BDX",
@@ -97,6 +87,16 @@
             "SAND",
             "RE",
             "AERO"
+        ]
+    },
+    {
+        "date": "2026-06-22",
+        "gainers": [
+            "UB",
+            "LAB",
+            "2Z",
+            "EIGEN",
+            "TRUMP"
         ]
     }
 ]

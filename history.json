@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-13",
-        "gainers": [
-            "BDX",
-            "TRUMP",
-            "SKYAI",
-            "H",
-            "LAB"
-        ]
-    },
-    {
         "date": "2026-06-14",
         "gainers": [
             "RIF",
@@ -97,6 +87,16 @@
             "2Z",
             "EIGEN",
             "TRUMP"
+        ]
+    },
+    {
+        "date": "2026-06-23",
+        "gainers": [
+            "DEXE",
+            "GWEI",
+            "BTW",
+            "HASH",
+            "KAG"
         ]
     }
 ]

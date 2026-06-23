@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-14",
-        "gainers": [
-            "RIF",
-            "H",
-            "TAO",
-            "BTW",
-            "VVV"
-        ]
-    },
-    {
         "date": "2026-06-15",
         "gainers": [
             "H",
@@ -97,6 +87,16 @@
             "BTW",
             "HASH",
             "KAG"
+        ]
+    },
+    {
+        "date": "2026-06-23",
+        "gainers": [
+            "RUSD",
+            "BEAT",
+            "DEXE",
+            "DYDX",
+            "BTW"
         ]
     }
 ]

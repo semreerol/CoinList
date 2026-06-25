@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-15",
-        "gainers": [
-            "H",
-            "BP",
-            "LAB",
-            "AKT",
-            "ZEC"
-        ]
-    },
-    {
         "date": "2026-06-16",
         "gainers": [
             "JTO",
@@ -97,6 +87,16 @@
             "DEXE",
             "DYDX",
             "BTW"
+        ]
+    },
+    {
+        "date": "2026-06-25",
+        "gainers": [
+            "O",
+            "GWEI",
+            "LIT",
+            "LAB",
+            "AAVE"
         ]
     }
 ]

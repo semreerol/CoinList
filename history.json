@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-16",
-        "gainers": [
-            "JTO",
-            "ZRO",
-            "UNI",
-            "AERO",
-            "XLM"
-        ]
-    },
-    {
         "date": "2026-06-17",
         "gainers": [
             "BSB",
@@ -97,6 +87,16 @@
             "LIT",
             "LAB",
             "AAVE"
+        ]
+    },
+    {
+        "date": "2026-06-26",
+        "gainers": [
+            "BEAT",
+            "DATA",
+            "XPL",
+            "BAS",
+            "AWE"
         ]
     }
 ]

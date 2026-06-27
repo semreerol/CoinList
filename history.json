@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-17",
-        "gainers": [
-            "BSB",
-            "LAB",
-            "SENT",
-            "SKYAI",
-            "VELVET"
-        ]
-    },
-    {
         "date": "2026-06-18",
         "gainers": [
             "XPL",
@@ -97,6 +87,16 @@
             "XPL",
             "BAS",
             "AWE"
+        ]
+    },
+    {
+        "date": "2026-06-27",
+        "gainers": [
+            "VELVET",
+            "SKYAI",
+            "BEAT",
+            "XCN",
+            "AAVE"
         ]
     }
 ]

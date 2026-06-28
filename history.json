@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-18",
-        "gainers": [
-            "XPL",
-            "TAG",
-            "ETHFI",
-            "ENA",
-            "BP"
-        ]
-    },
-    {
         "date": "2026-06-19",
         "gainers": [
             "LAB",
@@ -97,6 +87,16 @@
             "BEAT",
             "XCN",
             "AAVE"
+        ]
+    },
+    {
+        "date": "2026-06-28",
+        "gainers": [
+            "VELVET",
+            "SLX",
+            "RE",
+            "PIEVERSE",
+            "EIGEN"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-19",
-        "gainers": [
-            "LAB",
-            "VELVET",
-            "BP",
-            "HASH",
-            "EIGEN"
-        ]
-    },
-    {
         "date": "2026-06-20",
         "gainers": [
             "BTW",
@@ -97,6 +87,16 @@
             "RE",
             "PIEVERSE",
             "EIGEN"
+        ]
+    },
+    {
+        "date": "2026-06-29",
+        "gainers": [
+            "GWEI",
+            "VELVET",
+            "UB",
+            "BILL",
+            "SLX"
         ]
     }
 ]

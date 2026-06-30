@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-20",
-        "gainers": [
-            "BTW",
-            "O",
-            "9BIT",
-            "EIGEN",
-            "DEXE"
-        ]
-    },
-    {
         "date": "2026-06-21",
         "gainers": [
             "BTW",
@@ -97,6 +87,16 @@
             "UB",
             "BILL",
             "SLX"
+        ]
+    },
+    {
+        "date": "2026-06-30",
+        "gainers": [
+            "TAC",
+            "UB",
+            "CX",
+            "SYN",
+            "RE"
         ]
     }
 ]

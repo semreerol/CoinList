@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-22",
-        "gainers": [
-            "UB",
-            "LAB",
-            "2Z",
-            "EIGEN",
-            "TRUMP"
-        ]
-    },
-    {
         "date": "2026-06-23",
         "gainers": [
             "DEXE",
@@ -97,6 +87,16 @@
             "DYDX",
             "WBT",
             "CX"
+        ]
+    },
+    {
+        "date": "2026-07-02",
+        "gainers": [
+            "M",
+            "RIF",
+            "BTW",
+            "B",
+            "CRV"
         ]
     }
 ]

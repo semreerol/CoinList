@@ -2,16 +2,6 @@
     {
         "date": "2026-06-23",
         "gainers": [
-            "DEXE",
-            "GWEI",
-            "BTW",
-            "HASH",
-            "KAG"
-        ]
-    },
-    {
-        "date": "2026-06-23",
-        "gainers": [
             "RUSD",
             "BEAT",
             "DEXE",
@@ -97,6 +87,16 @@
             "BTW",
             "B",
             "CRV"
+        ]
+    },
+    {
+        "date": "2026-07-03",
+        "gainers": [
+            "LAB",
+            "M",
+            "FARTCOIN",
+            "RE",
+            "UNI"
         ]
     }
 ]

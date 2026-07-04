@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-23",
-        "gainers": [
-            "RUSD",
-            "BEAT",
-            "DEXE",
-            "DYDX",
-            "BTW"
-        ]
-    },
-    {
         "date": "2026-06-25",
         "gainers": [
             "O",
@@ -97,6 +87,16 @@
             "FARTCOIN",
             "RE",
             "UNI"
+        ]
+    },
+    {
+        "date": "2026-07-04",
+        "gainers": [
+            "ANSEM",
+            "NEX",
+            "MAGMA",
+            "RIF",
+            "ULTIMA"
         ]
     }
 ]

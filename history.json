@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-26",
-        "gainers": [
-            "BEAT",
-            "DATA",
-            "XPL",
-            "BAS",
-            "AWE"
-        ]
-    },
-    {
         "date": "2026-06-27",
         "gainers": [
             "VELVET",
@@ -97,6 +87,16 @@
             "\u5e01\u5b89\u4eba\u751f",
             "H",
             "ETHFI"
+        ]
+    },
+    {
+        "date": "2026-07-06",
+        "gainers": [
+            "GRX",
+            "BTW",
+            "UB",
+            "ULTIMA",
+            "LIT"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-27",
-        "gainers": [
-            "VELVET",
-            "SKYAI",
-            "BEAT",
-            "XCN",
-            "AAVE"
-        ]
-    },
-    {
         "date": "2026-06-28",
         "gainers": [
             "VELVET",
@@ -97,6 +87,16 @@
             "UB",
             "ULTIMA",
             "LIT"
+        ]
+    },
+    {
+        "date": "2026-07-07",
+        "gainers": [
+            "GROVE",
+            "ANSEM",
+            "RIF",
+            "DEXE",
+            "MON"
         ]
     }
 ]

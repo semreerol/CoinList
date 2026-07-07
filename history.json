@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-28",
-        "gainers": [
-            "VELVET",
-            "SLX",
-            "RE",
-            "PIEVERSE",
-            "EIGEN"
-        ]
-    },
-    {
         "date": "2026-06-29",
         "gainers": [
             "GWEI",
@@ -97,6 +87,16 @@
             "RIF",
             "DEXE",
             "MON"
+        ]
+    },
+    {
+        "date": "2026-07-07",
+        "gainers": [
+            "EDGE",
+            "HASH",
+            "LDO",
+            "M",
+            "SHFL"
         ]
     }
 ]

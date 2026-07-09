@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-29",
-        "gainers": [
-            "GWEI",
-            "VELVET",
-            "UB",
-            "BILL",
-            "SLX"
-        ]
-    },
-    {
         "date": "2026-06-30",
         "gainers": [
             "TAC",
@@ -97,6 +87,16 @@
             "LDO",
             "M",
             "SHFL"
+        ]
+    },
+    {
+        "date": "2026-07-09",
+        "gainers": [
+            "APE",
+            "EIGEN",
+            "DYDX",
+            "KAITO",
+            "SFP"
         ]
     }
 ]

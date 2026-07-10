@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-01",
-        "gainers": [
-            "M",
-            "H",
-            "DYDX",
-            "WBT",
-            "CX"
-        ]
-    },
-    {
         "date": "2026-07-02",
         "gainers": [
             "M",
@@ -97,6 +87,16 @@
             "ARB",
             "TIBBIR",
             "MORPHO"
+        ]
+    },
+    {
+        "date": "2026-07-10",
+        "gainers": [
+            "CASHCAT",
+            "B",
+            "DEXE",
+            "BEAT",
+            "VIRTUAL"
         ]
     }
 ]

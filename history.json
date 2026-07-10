@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-06-30",
-        "gainers": [
-            "TAC",
-            "UB",
-            "CX",
-            "SYN",
-            "RE"
-        ]
-    },
-    {
         "date": "2026-07-01",
         "gainers": [
             "M",
@@ -97,6 +87,16 @@
             "DYDX",
             "KAITO",
             "SFP"
+        ]
+    },
+    {
+        "date": "2026-07-10",
+        "gainers": [
+            "SENT",
+            "VELVET",
+            "ARB",
+            "TIBBIR",
+            "MORPHO"
         ]
     }
 ]

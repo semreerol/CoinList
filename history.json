@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-02",
-        "gainers": [
-            "M",
-            "RIF",
-            "BTW",
-            "B",
-            "CRV"
-        ]
-    },
-    {
         "date": "2026-07-03",
         "gainers": [
             "LAB",
@@ -97,6 +87,16 @@
             "DEXE",
             "BEAT",
             "VIRTUAL"
+        ]
+    },
+    {
+        "date": "2026-07-11",
+        "gainers": [
+            "CASHCAT",
+            "ULTIMA",
+            "ZANO",
+            "DEXE",
+            "THETA"
         ]
     }
 ]

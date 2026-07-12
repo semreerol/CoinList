@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-03",
-        "gainers": [
-            "LAB",
-            "M",
-            "FARTCOIN",
-            "RE",
-            "UNI"
-        ]
-    },
-    {
         "date": "2026-07-04",
         "gainers": [
             "ANSEM",
@@ -97,6 +87,16 @@
             "ZANO",
             "DEXE",
             "THETA"
+        ]
+    },
+    {
+        "date": "2026-07-12",
+        "gainers": [
+            "ANSEM",
+            "DEXE",
+            "BILL",
+            "VELVET",
+            "ULTIMA"
         ]
     }
 ]

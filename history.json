@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-04",
-        "gainers": [
-            "ANSEM",
-            "NEX",
-            "MAGMA",
-            "RIF",
-            "ULTIMA"
-        ]
-    },
-    {
         "date": "2026-07-05",
         "gainers": [
             "LAB",
@@ -97,6 +87,16 @@
             "BILL",
             "VELVET",
             "ULTIMA"
+        ]
+    },
+    {
+        "date": "2026-07-13",
+        "gainers": [
+            "XEC",
+            "ALLO",
+            "VELVET",
+            "BILL",
+            "BDX"
         ]
     }
 ]

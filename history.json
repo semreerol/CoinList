@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-05",
-        "gainers": [
-            "LAB",
-            "VELVET",
-            "\u5e01\u5b89\u4eba\u751f",
-            "H",
-            "ETHFI"
-        ]
-    },
-    {
         "date": "2026-07-06",
         "gainers": [
             "GRX",
@@ -97,6 +87,16 @@
             "VELVET",
             "BILL",
             "BDX"
+        ]
+    },
+    {
+        "date": "2026-07-14",
+        "gainers": [
+            "DRV",
+            "KAITO",
+            "CASHCAT",
+            "ZEC",
+            "LIT"
         ]
     }
 ]

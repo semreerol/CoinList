@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-06",
-        "gainers": [
-            "GRX",
-            "BTW",
-            "UB",
-            "ULTIMA",
-            "LIT"
-        ]
-    },
-    {
         "date": "2026-07-07",
         "gainers": [
             "GROVE",
@@ -97,6 +87,16 @@
             "CASHCAT",
             "ZEC",
             "LIT"
+        ]
+    },
+    {
+        "date": "2026-07-15",
+        "gainers": [
+            "ONDO",
+            "XEC",
+            "UB",
+            "PUMP",
+            "ETHFI"
         ]
     }
 ]

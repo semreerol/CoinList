@@ -2,16 +2,6 @@
     {
         "date": "2026-07-07",
         "gainers": [
-            "GROVE",
-            "ANSEM",
-            "RIF",
-            "DEXE",
-            "MON"
-        ]
-    },
-    {
-        "date": "2026-07-07",
-        "gainers": [
             "EDGE",
             "HASH",
             "LDO",
@@ -97,6 +87,16 @@
             "UB",
             "PUMP",
             "ETHFI"
+        ]
+    },
+    {
+        "date": "2026-07-16",
+        "gainers": [
+            "KAITO",
+            "CRO",
+            "TIBBIR",
+            "BC",
+            "BDX"
         ]
     }
 ]

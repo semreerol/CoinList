@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-07",
-        "gainers": [
-            "EDGE",
-            "HASH",
-            "LDO",
-            "M",
-            "SHFL"
-        ]
-    },
-    {
         "date": "2026-07-09",
         "gainers": [
             "APE",
@@ -97,6 +87,16 @@
             "TIBBIR",
             "BC",
             "BDX"
+        ]
+    },
+    {
+        "date": "2026-07-17",
+        "gainers": [
+            "XEC",
+            "TAG",
+            "UB",
+            "EDGE",
+            "ENS"
         ]
     }
 ]

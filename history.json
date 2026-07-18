@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-09",
-        "gainers": [
-            "APE",
-            "EIGEN",
-            "DYDX",
-            "KAITO",
-            "SFP"
-        ]
-    },
-    {
         "date": "2026-07-10",
         "gainers": [
             "SENT",
@@ -97,6 +87,16 @@
             "UB",
             "EDGE",
             "ENS"
+        ]
+    },
+    {
+        "date": "2026-07-18",
+        "gainers": [
+            "B",
+            "ALLO",
+            "BC",
+            "JASMY",
+            "XEC"
         ]
     }
 ]

@@ -2,16 +2,6 @@
     {
         "date": "2026-07-10",
         "gainers": [
-            "SENT",
-            "VELVET",
-            "ARB",
-            "TIBBIR",
-            "MORPHO"
-        ]
-    },
-    {
-        "date": "2026-07-10",
-        "gainers": [
             "CASHCAT",
             "B",
             "DEXE",
@@ -97,6 +87,16 @@
             "BC",
             "JASMY",
             "XEC"
+        ]
+    },
+    {
+        "date": "2026-07-19",
+        "gainers": [
+            "XTUSD",
+            "B",
+            "PUMP",
+            "TRAC",
+            "KAITO"
         ]
     }
 ]

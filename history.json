@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-10",
-        "gainers": [
-            "CASHCAT",
-            "B",
-            "DEXE",
-            "BEAT",
-            "VIRTUAL"
-        ]
-    },
-    {
         "date": "2026-07-11",
         "gainers": [
             "CASHCAT",
@@ -97,6 +87,16 @@
             "PUMP",
             "TRAC",
             "KAITO"
+        ]
+    },
+    {
+        "date": "2026-07-20",
+        "gainers": [
+            "BANK",
+            "BONK",
+            "JTO",
+            "MON",
+            "LDO"
         ]
     }
 ]

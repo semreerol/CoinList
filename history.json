@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-11",
-        "gainers": [
-            "CASHCAT",
-            "ULTIMA",
-            "ZANO",
-            "DEXE",
-            "THETA"
-        ]
-    },
-    {
         "date": "2026-07-12",
         "gainers": [
             "ANSEM",
@@ -97,6 +87,16 @@
             "JTO",
             "MON",
             "LDO"
+        ]
+    },
+    {
+        "date": "2026-07-21",
+        "gainers": [
+            "NIGHT",
+            "GENIUS",
+            "FGRS",
+            "ONDO",
+            "1INCH"
         ]
     }
 ]

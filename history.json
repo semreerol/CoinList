@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-12",
-        "gainers": [
-            "ANSEM",
-            "DEXE",
-            "BILL",
-            "VELVET",
-            "ULTIMA"
-        ]
-    },
-    {
         "date": "2026-07-13",
         "gainers": [
             "XEC",
@@ -97,6 +87,16 @@
             "FGRS",
             "ONDO",
             "1INCH"
+        ]
+    },
+    {
+        "date": "2026-07-23",
+        "gainers": [
+            "UB",
+            "HASH",
+            "BC",
+            "US",
+            "RAIL"
         ]
     }
 ]

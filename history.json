@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-14",
-        "gainers": [
-            "DRV",
-            "KAITO",
-            "CASHCAT",
-            "ZEC",
-            "LIT"
-        ]
-    },
-    {
         "date": "2026-07-15",
         "gainers": [
             "ONDO",
@@ -97,6 +87,16 @@
             "M",
             "SUSDC",
             "BEAT"
+        ]
+    },
+    {
+        "date": "2026-07-25",
+        "gainers": [
+            "DEXE",
+            "M",
+            "GRX",
+            "BANK",
+            "HASH"
         ]
     }
 ]

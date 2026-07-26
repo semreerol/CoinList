@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-15",
-        "gainers": [
-            "ONDO",
-            "XEC",
-            "UB",
-            "PUMP",
-            "ETHFI"
-        ]
-    },
-    {
         "date": "2026-07-16",
         "gainers": [
             "KAITO",
@@ -97,6 +87,16 @@
             "GRX",
             "BANK",
             "HASH"
+        ]
+    },
+    {
+        "date": "2026-07-26",
+        "gainers": [
+            "M",
+            "DEXE",
+            "Q",
+            "SHIB",
+            "BTW"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-16",
-        "gainers": [
-            "KAITO",
-            "CRO",
-            "TIBBIR",
-            "BC",
-            "BDX"
-        ]
-    },
-    {
         "date": "2026-07-17",
         "gainers": [
             "XEC",
@@ -97,6 +87,16 @@
             "Q",
             "SHIB",
             "BTW"
+        ]
+    },
+    {
+        "date": "2026-07-28",
+        "gainers": [
+            "KAG",
+            "TAG",
+            "META",
+            "GEOD",
+            "KAITO"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-17",
-        "gainers": [
-            "XEC",
-            "TAG",
-            "UB",
-            "EDGE",
-            "ENS"
-        ]
-    },
-    {
         "date": "2026-07-18",
         "gainers": [
             "B",
@@ -97,6 +87,16 @@
             "META",
             "GEOD",
             "KAITO"
+        ]
+    },
+    {
+        "date": "2026-07-28",
+        "gainers": [
+            "M",
+            "BTW",
+            "BEAT",
+            "UB",
+            "DEXE"
         ]
     }
 ]

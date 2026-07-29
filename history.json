@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-18",
-        "gainers": [
-            "B",
-            "ALLO",
-            "BC",
-            "JASMY",
-            "XEC"
-        ]
-    },
-    {
         "date": "2026-07-19",
         "gainers": [
             "XTUSD",
@@ -97,6 +87,16 @@
             "BEAT",
             "UB",
             "DEXE"
+        ]
+    },
+    {
+        "date": "2026-07-29",
+        "gainers": [
+            "M",
+            "META",
+            "BEAT",
+            "VELVET",
+            "HOLO"
         ]
     }
 ]

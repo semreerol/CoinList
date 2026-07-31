@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-19",
-        "gainers": [
-            "XTUSD",
-            "B",
-            "PUMP",
-            "TRAC",
-            "KAITO"
-        ]
-    },
-    {
         "date": "2026-07-20",
         "gainers": [
             "BANK",
@@ -97,6 +87,16 @@
             "BEAT",
             "VELVET",
             "HOLO"
+        ]
+    },
+    {
+        "date": "2026-07-31",
+        "gainers": [
+            "JW7",
+            "SNDKB",
+            "MUB",
+            "HASH",
+            "UB"
         ]
     }
 ]

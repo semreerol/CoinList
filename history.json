@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-20",
-        "gainers": [
-            "BANK",
-            "BONK",
-            "JTO",
-            "MON",
-            "LDO"
-        ]
-    },
-    {
         "date": "2026-07-21",
         "gainers": [
             "NIGHT",
@@ -97,6 +87,16 @@
             "MUB",
             "HASH",
             "UB"
+        ]
+    },
+    {
+        "date": "2026-08-01",
+        "gainers": [
+            "M",
+            "TAG",
+            "US",
+            "DRV",
+            "GLIDR"
         ]
     }
 ]

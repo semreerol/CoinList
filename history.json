@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-23",
-        "gainers": [
-            "UB",
-            "HASH",
-            "BC",
-            "US",
-            "RAIL"
-        ]
-    },
-    {
         "date": "2026-07-24",
         "gainers": [
             "BCAP",
@@ -97,6 +87,16 @@
             "UAI",
             "AKE",
             "APR"
+        ]
+    },
+    {
+        "date": "2026-08-04",
+        "gainers": [
+            "M",
+            "BTW",
+            "GLIDR",
+            "FGRS",
+            "AKT"
         ]
     }
 ]

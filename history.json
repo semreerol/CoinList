@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-24",
-        "gainers": [
-            "BCAP",
-            "RIF",
-            "M",
-            "SUSDC",
-            "BEAT"
-        ]
-    },
-    {
         "date": "2026-07-25",
         "gainers": [
             "DEXE",
@@ -97,6 +87,16 @@
             "GLIDR",
             "FGRS",
             "AKT"
+        ]
+    },
+    {
+        "date": "2026-08-05",
+        "gainers": [
+            "CASHCAT",
+            "M",
+            "CYS",
+            "BTW",
+            "ZBT"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-26",
-        "gainers": [
-            "M",
-            "DEXE",
-            "Q",
-            "SHIB",
-            "BTW"
-        ]
-    },
-    {
         "date": "2026-07-28",
         "gainers": [
             "KAG",
@@ -97,6 +87,16 @@
             "M",
             "BTW",
             "UB"
+        ]
+    },
+    {
+        "date": "2026-08-07",
+        "gainers": [
+            "KAU",
+            "KAG",
+            "M",
+            "SPCXB",
+            "BEAT"
         ]
     }
 ]

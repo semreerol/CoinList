@@ -2,16 +2,6 @@
     {
         "date": "2026-07-28",
         "gainers": [
-            "KAG",
-            "TAG",
-            "META",
-            "GEOD",
-            "KAITO"
-        ]
-    },
-    {
-        "date": "2026-07-28",
-        "gainers": [
             "M",
             "BTW",
             "BEAT",
@@ -97,6 +87,16 @@
             "M",
             "SPCXB",
             "BEAT"
+        ]
+    },
+    {
+        "date": "2026-08-08",
+        "gainers": [
+            "GLIDR",
+            "M",
+            "BEAT",
+            "CASHCAT",
+            "TEL"
         ]
     }
 ]

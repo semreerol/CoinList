@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-28",
-        "gainers": [
-            "M",
-            "BTW",
-            "BEAT",
-            "UB",
-            "DEXE"
-        ]
-    },
-    {
         "date": "2026-07-29",
         "gainers": [
             "M",
@@ -97,6 +87,16 @@
             "BEAT",
             "CASHCAT",
             "TEL"
+        ]
+    },
+    {
+        "date": "2026-08-09",
+        "gainers": [
+            "TUT",
+            "M",
+            "BEAT",
+            "CYS",
+            "PUMP"
         ]
     }
 ]

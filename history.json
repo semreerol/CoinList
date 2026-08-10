@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-07-29",
-        "gainers": [
-            "M",
-            "META",
-            "BEAT",
-            "VELVET",
-            "HOLO"
-        ]
-    },
-    {
         "date": "2026-07-31",
         "gainers": [
             "JW7",
@@ -97,6 +87,16 @@
             "BEAT",
             "CYS",
             "PUMP"
+        ]
+    },
+    {
+        "date": "2026-08-10",
+        "gainers": [
+            "M",
+            "TIBBIR",
+            "CARDS",
+            "KAG",
+            "CASHCAT"
         ]
     }
 ]

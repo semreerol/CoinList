@@ -3,16 +3,6 @@
         "date": "2026-08-01",
         "gainers": [
             "M",
-            "TAG",
-            "US",
-            "DRV",
-            "GLIDR"
-        ]
-    },
-    {
-        "date": "2026-08-01",
-        "gainers": [
-            "M",
             "META",
             "UAI",
             "AKE",
@@ -97,6 +87,16 @@
             "HASH",
             "HOLO",
             "H"
+        ]
+    },
+    {
+        "date": "2026-08-12",
+        "gainers": [
+            "APR",
+            "M",
+            "CYS",
+            "BTW",
+            "VELVET"
         ]
     }
 ]

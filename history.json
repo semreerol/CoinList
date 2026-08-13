@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-01",
-        "gainers": [
-            "M",
-            "META",
-            "UAI",
-            "AKE",
-            "APR"
-        ]
-    },
-    {
         "date": "2026-08-04",
         "gainers": [
             "M",
@@ -97,6 +87,16 @@
             "CYS",
             "BTW",
             "VELVET"
+        ]
+    },
+    {
+        "date": "2026-08-13",
+        "gainers": [
+            "M",
+            "AKE",
+            "H",
+            "ETHFI",
+            "INC"
         ]
     }
 ]

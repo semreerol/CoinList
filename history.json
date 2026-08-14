@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-04",
-        "gainers": [
-            "M",
-            "BTW",
-            "GLIDR",
-            "FGRS",
-            "AKT"
-        ]
-    },
-    {
         "date": "2026-08-05",
         "gainers": [
             "CASHCAT",
@@ -97,6 +87,16 @@
             "H",
             "ETHFI",
             "INC"
+        ]
+    },
+    {
+        "date": "2026-08-14",
+        "gainers": [
+            "M",
+            "AKE",
+            "VELVET",
+            "TIBBIR",
+            "CAP"
         ]
     }
 ]

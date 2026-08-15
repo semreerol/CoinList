@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-05",
-        "gainers": [
-            "CASHCAT",
-            "M",
-            "CYS",
-            "BTW",
-            "ZBT"
-        ]
-    },
-    {
         "date": "2026-08-07",
         "gainers": [
             "KAU",
@@ -97,6 +87,16 @@
             "VELVET",
             "TIBBIR",
             "CAP"
+        ]
+    },
+    {
+        "date": "2026-08-15",
+        "gainers": [
+            "ANSEM",
+            "H",
+            "Q",
+            "ETHFI",
+            "LINK"
         ]
     }
 ]

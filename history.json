@@ -5,16 +5,6 @@
             "KAU",
             "KAG",
             "M",
-            "BTW",
-            "UB"
-        ]
-    },
-    {
-        "date": "2026-08-07",
-        "gainers": [
-            "KAU",
-            "KAG",
-            "M",
             "SPCXB",
             "BEAT"
         ]
@@ -97,6 +87,16 @@
             "Q",
             "ETHFI",
             "LINK"
+        ]
+    },
+    {
+        "date": "2026-08-16",
+        "gainers": [
+            "BTW",
+            "VELVET",
+            "DRV",
+            "CAP",
+            "Q"
         ]
     }
 ]

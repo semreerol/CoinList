@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-07",
-        "gainers": [
-            "KAU",
-            "KAG",
-            "M",
-            "SPCXB",
-            "BEAT"
-        ]
-    },
-    {
         "date": "2026-08-08",
         "gainers": [
             "GLIDR",
@@ -97,6 +87,16 @@
             "DRV",
             "CAP",
             "Q"
+        ]
+    },
+    {
+        "date": "2026-08-17",
+        "gainers": [
+            "GPS",
+            "ANSEM",
+            "VVV",
+            "HASH",
+            "COMP"
         ]
     }
 ]

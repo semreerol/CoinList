@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-08",
-        "gainers": [
-            "GLIDR",
-            "M",
-            "BEAT",
-            "CASHCAT",
-            "TEL"
-        ]
-    },
-    {
         "date": "2026-08-09",
         "gainers": [
             "TUT",
@@ -97,6 +87,16 @@
             "VVV",
             "HASH",
             "COMP"
+        ]
+    },
+    {
+        "date": "2026-08-18",
+        "gainers": [
+            "TIBBIR",
+            "BTW",
+            "VELVET",
+            "HASH",
+            "GPS"
         ]
     }
 ]

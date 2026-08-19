@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-09",
-        "gainers": [
-            "TUT",
-            "M",
-            "BEAT",
-            "CYS",
-            "PUMP"
-        ]
-    },
-    {
         "date": "2026-08-10",
         "gainers": [
             "M",
@@ -97,6 +87,16 @@
             "VELVET",
             "HASH",
             "GPS"
+        ]
+    },
+    {
+        "date": "2026-08-19",
+        "gainers": [
+            "TRUMP",
+            "CASHCAT",
+            "HYPE",
+            "ARB",
+            "ETH"
         ]
     }
 ]

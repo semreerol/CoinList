@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-11",
-        "gainers": [
-            "M",
-            "VELVET",
-            "HASH",
-            "HOLO",
-            "H"
-        ]
-    },
-    {
         "date": "2026-08-12",
         "gainers": [
             "APR",
@@ -97,6 +87,16 @@
             "MON",
             "RAIL",
             "MNT"
+        ]
+    },
+    {
+        "date": "2026-08-21",
+        "gainers": [
+            "GALA",
+            "STX",
+            "BCH",
+            "ENS",
+            "ZEC"
         ]
     }
 ]

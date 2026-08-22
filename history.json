@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-12",
-        "gainers": [
-            "APR",
-            "M",
-            "CYS",
-            "BTW",
-            "VELVET"
-        ]
-    },
-    {
         "date": "2026-08-13",
         "gainers": [
             "M",
@@ -97,6 +87,16 @@
             "BCH",
             "ENS",
             "ZEC"
+        ]
+    },
+    {
+        "date": "2026-08-22",
+        "gainers": [
+            "TRUMP",
+            "PUMP",
+            "STX",
+            "MELANIA",
+            "ZRO"
         ]
     }
 ]

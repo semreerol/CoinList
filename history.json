@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-13",
-        "gainers": [
-            "M",
-            "AKE",
-            "H",
-            "ETHFI",
-            "INC"
-        ]
-    },
-    {
         "date": "2026-08-14",
         "gainers": [
             "M",
@@ -97,6 +87,16 @@
             "STX",
             "MELANIA",
             "ZRO"
+        ]
+    },
+    {
+        "date": "2026-08-23",
+        "gainers": [
+            "MORPHO",
+            "CASHCAT",
+            "GRASS",
+            "TRAC",
+            "TRUMP"
         ]
     }
 ]

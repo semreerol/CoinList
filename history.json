@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-14",
-        "gainers": [
-            "M",
-            "AKE",
-            "VELVET",
-            "TIBBIR",
-            "CAP"
-        ]
-    },
-    {
         "date": "2026-08-15",
         "gainers": [
             "ANSEM",
@@ -97,6 +87,16 @@
             "GRASS",
             "TRAC",
             "TRUMP"
+        ]
+    },
+    {
+        "date": "2026-08-24",
+        "gainers": [
+            "CASHCAT",
+            "DOG",
+            "DRV",
+            "KAG",
+            "AERO"
         ]
     }
 ]

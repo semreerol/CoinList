@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-15",
-        "gainers": [
-            "ANSEM",
-            "H",
-            "Q",
-            "ETHFI",
-            "LINK"
-        ]
-    },
-    {
         "date": "2026-08-16",
         "gainers": [
             "BTW",
@@ -97,6 +87,16 @@
             "DRV",
             "KAG",
             "AERO"
+        ]
+    },
+    {
+        "date": "2026-08-25",
+        "gainers": [
+            "META",
+            "RAIN",
+            "H",
+            "STX",
+            "SPX"
         ]
     }
 ]

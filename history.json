@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-17",
-        "gainers": [
-            "GPS",
-            "ANSEM",
-            "VVV",
-            "HASH",
-            "COMP"
-        ]
-    },
-    {
         "date": "2026-08-18",
         "gainers": [
             "TIBBIR",
@@ -97,6 +87,16 @@
             "NPC",
             "ANSEM",
             "DRV"
+        ]
+    },
+    {
+        "date": "2026-08-28",
+        "gainers": [
+            "TRUMP",
+            "SAFE",
+            "TIBBIR",
+            "ANSEM",
+            "MELANIA"
         ]
     }
 ]

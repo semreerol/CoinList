@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-18",
-        "gainers": [
-            "TIBBIR",
-            "BTW",
-            "VELVET",
-            "HASH",
-            "GPS"
-        ]
-    },
-    {
         "date": "2026-08-19",
         "gainers": [
             "TRUMP",
@@ -97,6 +87,16 @@
             "TIBBIR",
             "ANSEM",
             "MELANIA"
+        ]
+    },
+    {
+        "date": "2026-08-29",
+        "gainers": [
+            "AKE",
+            "PONS",
+            "NPC",
+            "TIBBIR",
+            "H"
         ]
     }
 ]

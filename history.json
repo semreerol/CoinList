@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-19",
-        "gainers": [
-            "TRUMP",
-            "CASHCAT",
-            "HYPE",
-            "ARB",
-            "ETH"
-        ]
-    },
-    {
         "date": "2026-08-20",
         "gainers": [
             "ENA",
@@ -97,6 +87,16 @@
             "NPC",
             "TIBBIR",
             "H"
+        ]
+    },
+    {
+        "date": "2026-08-30",
+        "gainers": [
+            "PONS",
+            "CARDS",
+            "PROM",
+            "CYS",
+            "BTW"
         ]
     }
 ]

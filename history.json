@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-20",
-        "gainers": [
-            "ENA",
-            "PUMP",
-            "MON",
-            "RAIL",
-            "MNT"
-        ]
-    },
-    {
         "date": "2026-08-21",
         "gainers": [
             "GALA",
@@ -97,6 +87,16 @@
             "PROM",
             "CYS",
             "BTW"
+        ]
+    },
+    {
+        "date": "2026-08-31",
+        "gainers": [
+            "SKR",
+            "HNT",
+            "PONS",
+            "CYS",
+            "UNI"
         ]
     }
 ]

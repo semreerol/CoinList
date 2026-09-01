@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-21",
-        "gainers": [
-            "GALA",
-            "STX",
-            "BCH",
-            "ENS",
-            "ZEC"
-        ]
-    },
-    {
         "date": "2026-08-22",
         "gainers": [
             "TRUMP",
@@ -97,6 +87,16 @@
             "PONS",
             "CYS",
             "UNI"
+        ]
+    },
+    {
+        "date": "2026-09-01",
+        "gainers": [
+            "ARB",
+            "PONS",
+            "SAFE",
+            "CRV",
+            "CASHCAT"
         ]
     }
 ]

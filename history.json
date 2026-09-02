@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-22",
-        "gainers": [
-            "TRUMP",
-            "PUMP",
-            "STX",
-            "MELANIA",
-            "ZRO"
-        ]
-    },
-    {
         "date": "2026-08-23",
         "gainers": [
             "MORPHO",
@@ -97,6 +87,16 @@
             "SAFE",
             "CRV",
             "CASHCAT"
+        ]
+    },
+    {
+        "date": "2026-09-02",
+        "gainers": [
+            "UAI",
+            "USELESS",
+            "FF",
+            "FIL",
+            "UNI"
         ]
     }
 ]

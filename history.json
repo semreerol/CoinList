@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-23",
-        "gainers": [
-            "MORPHO",
-            "CASHCAT",
-            "GRASS",
-            "TRAC",
-            "TRUMP"
-        ]
-    },
-    {
         "date": "2026-08-24",
         "gainers": [
             "CASHCAT",
@@ -97,6 +87,16 @@
             "FF",
             "FIL",
             "UNI"
+        ]
+    },
+    {
+        "date": "2026-09-03",
+        "gainers": [
+            "AKE",
+            "EGLD",
+            "CASHCAT",
+            "EDGE",
+            "ARB"
         ]
     }
 ]

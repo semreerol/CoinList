@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-24",
-        "gainers": [
-            "CASHCAT",
-            "DOG",
-            "DRV",
-            "KAG",
-            "AERO"
-        ]
-    },
-    {
         "date": "2026-08-25",
         "gainers": [
             "META",
@@ -97,6 +87,16 @@
             "CASHCAT",
             "EDGE",
             "ARB"
+        ]
+    },
+    {
+        "date": "2026-09-04",
+        "gainers": [
+            "MARSCOIN",
+            "USELESS",
+            "PONS",
+            "EDGE",
+            "CHIP"
         ]
     }
 ]

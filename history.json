@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-25",
-        "gainers": [
-            "META",
-            "RAIN",
-            "H",
-            "STX",
-            "SPX"
-        ]
-    },
-    {
         "date": "2026-08-27",
         "gainers": [
             "UP",
@@ -97,6 +87,16 @@
             "PONS",
             "EDGE",
             "CHIP"
+        ]
+    },
+    {
+        "date": "2026-09-05",
+        "gainers": [
+            "MARSCOIN",
+            "DASH",
+            "USELESS",
+            "Q",
+            "XCN"
         ]
     }
 ]

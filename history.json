@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-27",
-        "gainers": [
-            "UP",
-            "KAG",
-            "NPC",
-            "ANSEM",
-            "DRV"
-        ]
-    },
-    {
         "date": "2026-08-28",
         "gainers": [
             "TRUMP",
@@ -97,6 +87,16 @@
             "USELESS",
             "Q",
             "XCN"
+        ]
+    },
+    {
+        "date": "2026-09-06",
+        "gainers": [
+            "ARB",
+            "\u725b\u6765",
+            "AKE",
+            "MARSCOIN",
+            "B"
         ]
     }
 ]

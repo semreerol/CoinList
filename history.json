@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-28",
-        "gainers": [
-            "TRUMP",
-            "SAFE",
-            "TIBBIR",
-            "ANSEM",
-            "MELANIA"
-        ]
-    },
-    {
         "date": "2026-08-29",
         "gainers": [
             "AKE",
@@ -97,6 +87,16 @@
             "AKE",
             "MARSCOIN",
             "B"
+        ]
+    },
+    {
+        "date": "2026-09-07",
+        "gainers": [
+            "SHRUB",
+            "ZCAT",
+            "STONK",
+            "RAY",
+            "TIA"
         ]
     }
 ]

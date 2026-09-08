@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-29",
-        "gainers": [
-            "AKE",
-            "PONS",
-            "NPC",
-            "TIBBIR",
-            "H"
-        ]
-    },
-    {
         "date": "2026-08-30",
         "gainers": [
             "PONS",
@@ -97,6 +87,16 @@
             "STONK",
             "RAY",
             "TIA"
+        ]
+    },
+    {
+        "date": "2026-09-08",
+        "gainers": [
+            "GRX",
+            "AMC",
+            "B",
+            "UAI",
+            "INJ"
         ]
     }
 ]

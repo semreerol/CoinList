@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-08-30",
-        "gainers": [
-            "PONS",
-            "CARDS",
-            "PROM",
-            "CYS",
-            "BTW"
-        ]
-    },
-    {
         "date": "2026-08-31",
         "gainers": [
             "SKR",
@@ -97,6 +87,16 @@
             "B",
             "UAI",
             "INJ"
+        ]
+    },
+    {
+        "date": "2026-09-09",
+        "gainers": [
+            "VVV",
+            "USELESS",
+            "FF",
+            "FORM",
+            "DOT"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-01",
-        "gainers": [
-            "ARB",
-            "PONS",
-            "SAFE",
-            "CRV",
-            "CASHCAT"
-        ]
-    },
-    {
         "date": "2026-09-02",
         "gainers": [
             "UAI",
@@ -97,6 +87,16 @@
             "UAI",
             "EDGE",
             "APEPE"
+        ]
+    },
+    {
+        "date": "2026-09-11",
+        "gainers": [
+            "RAY",
+            "STONK",
+            "PRL",
+            "APEPE",
+            "HASH"
         ]
     }
 ]

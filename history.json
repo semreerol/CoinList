@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-02",
-        "gainers": [
-            "UAI",
-            "USELESS",
-            "FF",
-            "FIL",
-            "UNI"
-        ]
-    },
-    {
         "date": "2026-09-03",
         "gainers": [
             "AKE",
@@ -97,6 +87,16 @@
             "PRL",
             "APEPE",
             "HASH"
+        ]
+    },
+    {
+        "date": "2026-09-12",
+        "gainers": [
+            "STONK",
+            "PRL",
+            "AI",
+            "MINA",
+            "EDGE"
         ]
     }
 ]

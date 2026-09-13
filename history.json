@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-03",
-        "gainers": [
-            "AKE",
-            "EGLD",
-            "CASHCAT",
-            "EDGE",
-            "ARB"
-        ]
-    },
-    {
         "date": "2026-09-04",
         "gainers": [
             "MARSCOIN",
@@ -97,6 +87,16 @@
             "AI",
             "MINA",
             "EDGE"
+        ]
+    },
+    {
+        "date": "2026-09-13",
+        "gainers": [
+            "\u9f99\u867e",
+            "ZCAT",
+            "NOCK",
+            "AKE",
+            "AI"
         ]
     }
 ]

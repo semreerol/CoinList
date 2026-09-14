@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-04",
-        "gainers": [
-            "MARSCOIN",
-            "USELESS",
-            "PONS",
-            "EDGE",
-            "CHIP"
-        ]
-    },
-    {
         "date": "2026-09-05",
         "gainers": [
             "MARSCOIN",
@@ -97,6 +87,16 @@
             "NOCK",
             "AKE",
             "AI"
+        ]
+    },
+    {
+        "date": "2026-09-14",
+        "gainers": [
+            "LSK",
+            "BTW",
+            "FIL",
+            "B",
+            "UB"
         ]
     }
 ]

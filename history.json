@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-05",
-        "gainers": [
-            "MARSCOIN",
-            "DASH",
-            "USELESS",
-            "Q",
-            "XCN"
-        ]
-    },
-    {
         "date": "2026-09-06",
         "gainers": [
             "ARB",
@@ -97,6 +87,16 @@
             "FIL",
             "B",
             "UB"
+        ]
+    },
+    {
+        "date": "2026-09-15",
+        "gainers": [
+            "BR",
+            "AI",
+            "TIBBIR",
+            "PONS",
+            "\u9f99\u867e"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-08",
-        "gainers": [
-            "GRX",
-            "AMC",
-            "B",
-            "UAI",
-            "INJ"
-        ]
-    },
-    {
         "date": "2026-09-09",
         "gainers": [
             "VVV",
@@ -97,6 +87,16 @@
             "ZCAT",
             "LSK",
             "STONK"
+        ]
+    },
+    {
+        "date": "2026-09-18",
+        "gainers": [
+            "MCAT",
+            "GEOD",
+            "PRL",
+            "GENIUS",
+            "AI"
         ]
     }
 ]

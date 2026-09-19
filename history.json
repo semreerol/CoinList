@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-09",
-        "gainers": [
-            "VVV",
-            "USELESS",
-            "FF",
-            "FORM",
-            "DOT"
-        ]
-    },
-    {
         "date": "2026-09-10",
         "gainers": [
             "MINA",
@@ -97,6 +87,16 @@
             "PRL",
             "GENIUS",
             "AI"
+        ]
+    },
+    {
+        "date": "2026-09-19",
+        "gainers": [
+            "AKE",
+            "DRV",
+            "STRK",
+            "AR",
+            "RAIL"
         ]
     }
 ]

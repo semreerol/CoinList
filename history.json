@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-14",
-        "gainers": [
-            "LSK",
-            "BTW",
-            "FIL",
-            "B",
-            "UB"
-        ]
-    },
-    {
         "date": "2026-09-15",
         "gainers": [
             "BR",
@@ -97,6 +87,16 @@
             "PRL",
             "BSV",
             "MINA"
+        ]
+    },
+    {
+        "date": "2026-09-24",
+        "gainers": [
+            "META",
+            "BTW",
+            "ZRO",
+            "\u9f99\u867e",
+            "STONK"
         ]
     }
 ]

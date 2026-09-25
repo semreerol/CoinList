@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-15",
-        "gainers": [
-            "BR",
-            "AI",
-            "TIBBIR",
-            "PONS",
-            "\u9f99\u867e"
-        ]
-    },
-    {
         "date": "2026-09-16",
         "gainers": [
             "BLORB",
@@ -97,6 +87,16 @@
             "ZRO",
             "\u9f99\u867e",
             "STONK"
+        ]
+    },
+    {
+        "date": "2026-09-25",
+        "gainers": [
+            "XPL",
+            "QNT",
+            "ONDO",
+            "BP",
+            "DBR"
         ]
     }
 ]

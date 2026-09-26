@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-16",
-        "gainers": [
-            "BLORB",
-            "AKE",
-            "\u9f99\u867e",
-            "BTW",
-            "ARB"
-        ]
-    },
-    {
         "date": "2026-09-17",
         "gainers": [
             "BR",
@@ -97,6 +87,16 @@
             "ONDO",
             "BP",
             "DBR"
+        ]
+    },
+    {
+        "date": "2026-09-26",
+        "gainers": [
+            "BTW",
+            "CASHCAT",
+            "SEI",
+            "BP",
+            "\u9f99\u867e"
         ]
     }
 ]

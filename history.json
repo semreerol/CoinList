@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-17",
-        "gainers": [
-            "BR",
-            "DRV",
-            "ZCAT",
-            "LSK",
-            "STONK"
-        ]
-    },
-    {
         "date": "2026-09-18",
         "gainers": [
             "MCAT",
@@ -97,6 +87,16 @@
             "SEI",
             "BP",
             "\u9f99\u867e"
+        ]
+    },
+    {
+        "date": "2026-09-27",
+        "gainers": [
+            "QNT",
+            "Q",
+            "2Z",
+            "RUNE",
+            "KMNO"
         ]
     }
 ]

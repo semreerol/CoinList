@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-18",
-        "gainers": [
-            "MCAT",
-            "GEOD",
-            "PRL",
-            "GENIUS",
-            "AI"
-        ]
-    },
-    {
         "date": "2026-09-19",
         "gainers": [
             "AKE",
@@ -97,6 +87,16 @@
             "2Z",
             "RUNE",
             "KMNO"
+        ]
+    },
+    {
+        "date": "2026-09-28",
+        "gainers": [
+            "SHFL",
+            "QNT",
+            "GRT",
+            "BTW",
+            "SEI"
         ]
     }
 ]

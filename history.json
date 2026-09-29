@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-19",
-        "gainers": [
-            "AKE",
-            "DRV",
-            "STRK",
-            "AR",
-            "RAIL"
-        ]
-    },
-    {
         "date": "2026-09-20",
         "gainers": [
             "BLORB",
@@ -97,6 +87,16 @@
             "GRT",
             "BTW",
             "SEI"
+        ]
+    },
+    {
+        "date": "2026-09-29",
+        "gainers": [
+            "MARSCOIN",
+            "HBAR",
+            "ALGO",
+            "TIBBIR",
+            "CRV"
         ]
     }
 ]

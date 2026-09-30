@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-20",
-        "gainers": [
-            "BLORB",
-            "BR",
-            "AKE",
-            "ZAMA",
-            "AVAX"
-        ]
-    },
-    {
         "date": "2026-09-21",
         "gainers": [
             "BP",
@@ -97,6 +87,16 @@
             "ALGO",
             "TIBBIR",
             "CRV"
+        ]
+    },
+    {
+        "date": "2026-09-30",
+        "gainers": [
+            "SOON",
+            "QNT",
+            "STONK",
+            "GRASS",
+            "BTW"
         ]
     }
 ]

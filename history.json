@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-21",
-        "gainers": [
-            "BP",
-            "BTW",
-            "STONK",
-            "NEAR",
-            "S"
-        ]
-    },
-    {
         "date": "2026-09-22",
         "gainers": [
             "AIOZ",
@@ -97,6 +87,16 @@
             "STONK",
             "GRASS",
             "BTW"
+        ]
+    },
+    {
+        "date": "2026-10-01",
+        "gainers": [
+            "TRAC",
+            "SOON",
+            "NIGHT",
+            "MON",
+            "STX"
         ]
     }
 ]

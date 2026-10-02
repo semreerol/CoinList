@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-22",
-        "gainers": [
-            "AIOZ",
-            "FORM",
-            "HOOD",
-            "PEPE",
-            "WIF"
-        ]
-    },
-    {
         "date": "2026-09-23",
         "gainers": [
             "MARSCOIN",
@@ -97,6 +87,16 @@
             "NIGHT",
             "MON",
             "STX"
+        ]
+    },
+    {
+        "date": "2026-10-02",
+        "gainers": [
+            "RAIL",
+            "SUPER",
+            "JASMY",
+            "AAVE",
+            "ZRO"
         ]
     }
 ]

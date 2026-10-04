@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-24",
-        "gainers": [
-            "META",
-            "BTW",
-            "ZRO",
-            "\u9f99\u867e",
-            "STONK"
-        ]
-    },
-    {
         "date": "2026-09-25",
         "gainers": [
             "XPL",
@@ -97,6 +87,16 @@
             "CARDS",
             "NIGHT",
             "GALA"
+        ]
+    },
+    {
+        "date": "2026-10-04",
+        "gainers": [
+            "RAIN",
+            "STRK",
+            "ZAMA",
+            "ZRO",
+            "DGAI"
         ]
     }
 ]

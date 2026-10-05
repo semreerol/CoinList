@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-25",
-        "gainers": [
-            "XPL",
-            "QNT",
-            "ONDO",
-            "BP",
-            "DBR"
-        ]
-    },
-    {
         "date": "2026-09-26",
         "gainers": [
             "BTW",
@@ -97,6 +87,16 @@
             "ZAMA",
             "ZRO",
             "DGAI"
+        ]
+    },
+    {
+        "date": "2026-10-05",
+        "gainers": [
+            "BTW",
+            "BEAM",
+            "FET",
+            "AKT",
+            "GEOD"
         ]
     }
 ]

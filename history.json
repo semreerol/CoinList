@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-26",
-        "gainers": [
-            "BTW",
-            "CASHCAT",
-            "SEI",
-            "BP",
-            "\u9f99\u867e"
-        ]
-    },
-    {
         "date": "2026-09-27",
         "gainers": [
             "QNT",
@@ -97,6 +87,16 @@
             "FET",
             "AKT",
             "GEOD"
+        ]
+    },
+    {
+        "date": "2026-10-06",
+        "gainers": [
+            "FLUID",
+            "ORCA",
+            "SHX",
+            "NIGHT",
+            "ZRO"
         ]
     }
 ]

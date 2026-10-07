@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-27",
-        "gainers": [
-            "QNT",
-            "Q",
-            "2Z",
-            "RUNE",
-            "KMNO"
-        ]
-    },
-    {
         "date": "2026-09-28",
         "gainers": [
             "SHFL",
@@ -97,6 +87,16 @@
             "SHX",
             "NIGHT",
             "ZRO"
+        ]
+    },
+    {
+        "date": "2026-10-07",
+        "gainers": [
+            "BR",
+            "ORCA",
+            "CAP",
+            "CARDS",
+            "NPC"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-28",
-        "gainers": [
-            "SHFL",
-            "QNT",
-            "GRT",
-            "BTW",
-            "SEI"
-        ]
-    },
-    {
         "date": "2026-09-29",
         "gainers": [
             "MARSCOIN",
@@ -97,6 +87,16 @@
             "CAP",
             "CARDS",
             "NPC"
+        ]
+    },
+    {
+        "date": "2026-10-08",
+        "gainers": [
+            "GRX",
+            "MET",
+            "PRL",
+            "RAY",
+            "APEPE"
         ]
     }
 ]

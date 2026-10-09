@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-29",
-        "gainers": [
-            "MARSCOIN",
-            "HBAR",
-            "ALGO",
-            "TIBBIR",
-            "CRV"
-        ]
-    },
-    {
         "date": "2026-09-30",
         "gainers": [
             "SOON",
@@ -97,6 +87,16 @@
             "PRL",
             "RAY",
             "APEPE"
+        ]
+    },
+    {
+        "date": "2026-10-09",
+        "gainers": [
+            "HASH",
+            "STRK",
+            "DRV",
+            "PYTH",
+            "SOSO"
         ]
     }
 ]

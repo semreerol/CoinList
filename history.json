@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-09-30",
-        "gainers": [
-            "SOON",
-            "QNT",
-            "STONK",
-            "GRASS",
-            "BTW"
-        ]
-    },
-    {
         "date": "2026-10-01",
         "gainers": [
             "TRAC",
@@ -97,6 +87,16 @@
             "DRV",
             "PYTH",
             "SOSO"
+        ]
+    },
+    {
+        "date": "2026-10-10",
+        "gainers": [
+            "KAIA",
+            "BAT",
+            "ZK",
+            "CAP",
+            "STRK"
         ]
     }
 ]

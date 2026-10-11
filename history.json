@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-01",
-        "gainers": [
-            "TRAC",
-            "SOON",
-            "NIGHT",
-            "MON",
-            "STX"
-        ]
-    },
-    {
         "date": "2026-10-02",
         "gainers": [
             "RAIL",
@@ -97,6 +87,16 @@
             "ZK",
             "CAP",
             "STRK"
+        ]
+    },
+    {
+        "date": "2026-10-11",
+        "gainers": [
+            "STRK",
+            "CHIP",
+            "TIA",
+            "SHFL",
+            "CFX"
         ]
     }
 ]

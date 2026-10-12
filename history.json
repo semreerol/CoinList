@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-02",
-        "gainers": [
-            "RAIL",
-            "SUPER",
-            "JASMY",
-            "AAVE",
-            "ZRO"
-        ]
-    },
-    {
         "date": "2026-10-03",
         "gainers": [
             "GRX",
@@ -97,6 +87,16 @@
             "TIA",
             "SHFL",
             "CFX"
+        ]
+    },
+    {
+        "date": "2026-10-12",
+        "gainers": [
+            "W",
+            "GRASS",
+            "S",
+            "RAIL",
+            "PLUME"
         ]
     }
 ]

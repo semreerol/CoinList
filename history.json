@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-03",
-        "gainers": [
-            "GRX",
-            "SAND",
-            "CARDS",
-            "NIGHT",
-            "GALA"
-        ]
-    },
-    {
         "date": "2026-10-04",
         "gainers": [
             "RAIN",
@@ -97,6 +87,16 @@
             "S",
             "RAIL",
             "PLUME"
+        ]
+    },
+    {
+        "date": "2026-10-13",
+        "gainers": [
+            "RSR",
+            "Q",
+            "BDX",
+            "PRL",
+            "BAT"
         ]
     }
 ]

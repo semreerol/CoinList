@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-05",
-        "gainers": [
-            "BTW",
-            "BEAM",
-            "FET",
-            "AKT",
-            "GEOD"
-        ]
-    },
-    {
         "date": "2026-10-06",
         "gainers": [
             "FLUID",
@@ -97,6 +87,16 @@
             "BTW",
             "HASH",
             "OP"
+        ]
+    },
+    {
+        "date": "2026-10-15",
+        "gainers": [
+            "WAL",
+            "Q",
+            "CARDS",
+            "BTW",
+            "AKE"
         ]
     }
 ]

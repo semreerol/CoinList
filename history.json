@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-06",
-        "gainers": [
-            "FLUID",
-            "ORCA",
-            "SHX",
-            "NIGHT",
-            "ZRO"
-        ]
-    },
-    {
         "date": "2026-10-07",
         "gainers": [
             "BR",
@@ -97,6 +87,16 @@
             "CARDS",
             "BTW",
             "AKE"
+        ]
+    },
+    {
+        "date": "2026-10-16",
+        "gainers": [
+            "BAT",
+            "AKE",
+            "ZRO",
+            "STRK",
+            "INJ"
         ]
     }
 ]

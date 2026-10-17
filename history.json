@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-07",
-        "gainers": [
-            "BR",
-            "ORCA",
-            "CAP",
-            "CARDS",
-            "NPC"
-        ]
-    },
-    {
         "date": "2026-10-08",
         "gainers": [
             "GRX",
@@ -97,6 +87,16 @@
             "ZRO",
             "STRK",
             "INJ"
+        ]
+    },
+    {
+        "date": "2026-10-17",
+        "gainers": [
+            "Q",
+            "TIA",
+            "ANVL",
+            "A",
+            "BEAM"
         ]
     }
 ]

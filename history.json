@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-09",
-        "gainers": [
-            "HASH",
-            "STRK",
-            "DRV",
-            "PYTH",
-            "SOSO"
-        ]
-    },
-    {
         "date": "2026-10-10",
         "gainers": [
             "KAIA",
@@ -97,6 +87,16 @@
             "ANVL",
             "BTW",
             "BR"
+        ]
+    },
+    {
+        "date": "2026-10-19",
+        "gainers": [
+            "BP",
+            "HASH",
+            "SENT",
+            "CVX",
+            "ANVL"
         ]
     }
 ]

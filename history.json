@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-10",
-        "gainers": [
-            "KAIA",
-            "BAT",
-            "ZK",
-            "CAP",
-            "STRK"
-        ]
-    },
-    {
         "date": "2026-10-11",
         "gainers": [
             "STRK",
@@ -97,6 +87,16 @@
             "SENT",
             "CVX",
             "ANVL"
+        ]
+    },
+    {
+        "date": "2026-10-20",
+        "gainers": [
+            "BR",
+            "CARDS",
+            "Q",
+            "S",
+            "BAT"
         ]
     }
 ]

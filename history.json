@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-11",
-        "gainers": [
-            "STRK",
-            "CHIP",
-            "TIA",
-            "SHFL",
-            "CFX"
-        ]
-    },
-    {
         "date": "2026-10-12",
         "gainers": [
             "W",
@@ -97,6 +87,16 @@
             "Q",
             "S",
             "BAT"
+        ]
+    },
+    {
+        "date": "2026-10-21",
+        "gainers": [
+            "COMP",
+            "CVX",
+            "HASH",
+            "USELESS",
+            "ZEC"
         ]
     }
 ]

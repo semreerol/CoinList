@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-12",
-        "gainers": [
-            "W",
-            "GRASS",
-            "S",
-            "RAIL",
-            "PLUME"
-        ]
-    },
-    {
         "date": "2026-10-13",
         "gainers": [
             "RSR",
@@ -97,6 +87,16 @@
             "HASH",
             "USELESS",
             "ZEC"
+        ]
+    },
+    {
+        "date": "2026-10-22",
+        "gainers": [
+            "VERSE",
+            "HOODINU",
+            "GRX",
+            "KNTQ",
+            "LIT"
         ]
     }
 ]

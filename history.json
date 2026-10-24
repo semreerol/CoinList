@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-14",
-        "gainers": [
-            "Q",
-            "BAT",
-            "BTW",
-            "HASH",
-            "OP"
-        ]
-    },
-    {
         "date": "2026-10-15",
         "gainers": [
             "WAL",
@@ -97,6 +87,16 @@
             "BTW",
             "BR",
             "BDX"
+        ]
+    },
+    {
+        "date": "2026-10-24",
+        "gainers": [
+            "IRYS",
+            "AKE",
+            "META",
+            "KMNO",
+            "BEAM"
         ]
     }
 ]

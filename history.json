@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-16",
-        "gainers": [
-            "BAT",
-            "AKE",
-            "ZRO",
-            "STRK",
-            "INJ"
-        ]
-    },
-    {
         "date": "2026-10-17",
         "gainers": [
             "Q",
@@ -97,6 +87,16 @@
             "XMR",
             "GRASS",
             "UB"
+        ]
+    },
+    {
+        "date": "2026-10-26",
+        "gainers": [
+            "CAP",
+            "XCN",
+            "ENA",
+            "HASH",
+            "GRASS"
         ]
     }
 ]

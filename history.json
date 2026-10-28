@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-18",
-        "gainers": [
-            "GRX",
-            "Q",
-            "ANVL",
-            "BTW",
-            "BR"
-        ]
-    },
-    {
         "date": "2026-10-19",
         "gainers": [
             "BP",
@@ -97,6 +87,16 @@
             "HASH",
             "XDC",
             "NIGHT"
+        ]
+    },
+    {
+        "date": "2026-10-28",
+        "gainers": [
+            "BTW",
+            "PONS",
+            "PEPE",
+            "M",
+            "GRASS"
         ]
     }
 ]

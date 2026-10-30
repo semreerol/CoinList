@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-20",
-        "gainers": [
-            "BR",
-            "CARDS",
-            "Q",
-            "S",
-            "BAT"
-        ]
-    },
-    {
         "date": "2026-10-21",
         "gainers": [
             "COMP",
@@ -97,6 +87,16 @@
             "KNTQ",
             "STRCX",
             "PEARL"
+        ]
+    },
+    {
+        "date": "2026-10-30",
+        "gainers": [
+            "HYPE",
+            "TRX",
+            "RUNE",
+            "CAP",
+            "SUN"
         ]
     }
 ]

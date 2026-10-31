@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-21",
-        "gainers": [
-            "COMP",
-            "CVX",
-            "HASH",
-            "USELESS",
-            "ZEC"
-        ]
-    },
-    {
         "date": "2026-10-22",
         "gainers": [
             "VERSE",
@@ -97,6 +87,16 @@
             "RUNE",
             "CAP",
             "SUN"
+        ]
+    },
+    {
+        "date": "2026-10-31",
+        "gainers": [
+            "BEAM",
+            "OP",
+            "HASH",
+            "EIGEN",
+            "ZRO"
         ]
     }
 ]

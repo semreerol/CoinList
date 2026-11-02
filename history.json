@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-23",
-        "gainers": [
-            "AKE",
-            "M",
-            "BTW",
-            "BR",
-            "BDX"
-        ]
-    },
-    {
         "date": "2026-10-24",
         "gainers": [
             "IRYS",
@@ -97,6 +87,16 @@
             "BEAM",
             "MORPHO",
             "ZRO"
+        ]
+    },
+    {
+        "date": "2026-11-02",
+        "gainers": [
+            "HASH",
+            "BEAM",
+            "TRUMP",
+            "KITE",
+            "ZBCN"
         ]
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-24",
-        "gainers": [
-            "IRYS",
-            "AKE",
-            "META",
-            "KMNO",
-            "BEAM"
-        ]
-    },
-    {
         "date": "2026-10-25",
         "gainers": [
             "CAP",
@@ -97,6 +87,16 @@
             "TRUMP",
             "KITE",
             "ZBCN"
+        ]
+    },
+    {
+        "date": "2026-11-03",
+        "gainers": [
+            "RAIN",
+            "CARDS",
+            "PIEVERSE",
+            "RUNE",
+            "CAP"
         ]
     }
 ]

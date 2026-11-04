@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-25",
-        "gainers": [
-            "CAP",
-            "USELESS",
-            "XMR",
-            "GRASS",
-            "UB"
-        ]
-    },
-    {
         "date": "2026-10-26",
         "gainers": [
             "CAP",
@@ -97,6 +87,16 @@
             "PIEVERSE",
             "RUNE",
             "CAP"
+        ]
+    },
+    {
+        "date": "2026-11-04",
+        "gainers": [
+            "A7A5",
+            "YELLOW",
+            "FLUID",
+            "RUNE",
+            "KNTQ"
         ]
     }
 ]

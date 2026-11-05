@@ -1,15 +1,5 @@
 [
     {
-        "date": "2026-10-26",
-        "gainers": [
-            "CAP",
-            "XCN",
-            "ENA",
-            "HASH",
-            "GRASS"
-        ]
-    },
-    {
         "date": "2026-10-27",
         "gainers": [
             "Q",
@@ -97,6 +87,16 @@
             "FLUID",
             "RUNE",
             "KNTQ"
+        ]
+    },
+    {
+        "date": "2026-11-05",
+        "gainers": [
+            "CAP",
+            "FLUID",
+            "DGAI",
+            "DRV",
+            "BEAM"
         ]
     }
 ]
